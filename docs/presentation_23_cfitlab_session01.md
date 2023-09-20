@@ -154,7 +154,7 @@ Unser akutes Problem ist...
 
 ## Treibhausgasemission
 
-<img src="../img/greenhouse.jpg" alt="greenhouse" style="width:50%;">  
+<img src="./img/greenhouse.jpg" alt="greenhouse" style="width:50%;">  
 [[MIT News]](https://news.mit.edu/2017/explained-greenhouse-gases-0130)
 
 
@@ -283,7 +283,7 @@ Ziel: eine Tonne CO2 pro Mensch
 
 ## CO<sub>2</sub>-Fußabdruck in Deutschland
 
-.center[<img src="../img/co2_fussabdruck.png" alt="co2_fussabdruck" style="width:80%;">]
+.center[<img src="./img/co2_fussabdruck.png" alt="co2_fussabdruck" style="width:80%;">]
 
 .footnote[[Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz . 2023. [*Kohlenstoffdioxid-Fußabdruck pro Kopf in Deutschland*](https://www.bmuv.de/media/kohlenstoffdioxid-fussabdruck-pro-kopf-in-deutschland)]]
 
