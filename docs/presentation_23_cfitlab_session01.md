@@ -207,7 +207,7 @@ Unser akutes Problem ist...
 ---
 .header[Begriffsklärung]
 
-## Treibhausgasemission
+## Treibhausgasemissionen
 
 <img src="./img/greenhouse.jpg" alt="greenhouse" style="width:50%;">  
 [[MIT News]](https://news.mit.edu/2017/explained-greenhouse-gases-0130)
@@ -251,7 +251,7 @@ Das ist ein Problem.
 
 
 ---
-.header[Begriffsklärung | Treibhausgasemission]
+.header[Begriffsklärung | Treibhausgasemissionen]
 
 ## Globale Entwicklung
 
@@ -278,7 +278,7 @@ Wo stehen wir in diesem Kontext...
 * Gesamtbetrag von Kohlenstoffdioxid-Emissionen (CO<sub>2</sub>-Bilanz, Treibhausgasbilanz, CO<sub>2</sub>-Fußabdruck)
 
 ---
-.header[Begriffsklärung | Treibhausgasemission]
+.header[Begriffsklärung | Treibhausgasemissionen]
 
 ## Intuitive Quantifizierung
 
