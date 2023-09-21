@@ -6,19 +6,84 @@ class: center, middle, inverse
 
 
 
-.center[<img src="./img/cf_logo2.png" alt="logos" style="width:80%;">]
+.center[<img src="./img/cf_logo3.png" alt="logos" style="width:80%;">]
 
 .center[<img src="./img/logos.png" alt="logos" style="width:100%;">]
 
 
 #### 26.09.2023 | Filmuniversität Babelsberg KONRAD WOLF 
-  
-  
----
-# Teil 1 - Status Quo
+
+
+???
+.task[COMMENT:]  
+
+* Wie kam es zum Clean Film IT Lab?
+    * Treffen verschiedener Akteure Medienstadt
+    * Nachhaltigkeit als Thema identifiziert
+    * Peter Effenberg und ich
+        * MTH Konferenz
+        * Clean IT Konferenz HPI 
+* Wissen und Aktivitäten für die Branche
 
 ---
 layout: false
+
+.header[Das Clean Film IT Lab]
+
+## Die Ergebnisse des Labs
+
+1. Impulse für die Branche
+
+--
+
+2. White Paper der Media Tech Hub Konferenz
+
+--
+3. Horizon Forschungsantrag 
+   
+    * Cultural and creative industries for a sustainable climate transition
+    * *MovieTwin - Ein Ökosystem Für Die Nachhaltige Filmproduktion* (AT)
+    * Grundsätzliche Probleme der Branche?
+
+--
+4. HPI Startup Bootcamp 
+    * *Sustainable solutions in movie production*
+    * Welches konkrete Problem soll gelöst werden?
+  
+---
+.header[Das Clean Film IT Lab]
+
+## Agenda
+
+09:30 - 10:00   Vorstellungen & Intro  
+  
+10:00 - 10:30   Teil 1 – Einleitung & Überblick  
+  
+10:30 - 11:15   Teil 2 – Reality-Check  
+  
+11:30 - 11:45   Teil 3 – Kontext & Ausblick  
+  
+11:45 - 12:45   Teil 4 – Diskussion *Wo stehen wir?*  
+  
+14:00 - 16:00   Teil 5 – Die Nächsten Schritte  
+  
+16:30 - 17:30    Diskussionsrunde  
+  
+ab 17:45  Get-Together  
+
+
+---
+template:inverse
+
+# Vorstellungsrunde
+
+---
+template:inverse
+
+# Einleitung & Überblick
+
+---
+
 
 ## Agenda
 
@@ -29,6 +94,7 @@ layout: false
     * Co2e Emission
     * Green Washing
 * IT & Cloud Komponenten
+    * Berechnungsmethoden
     * Exemplarisches Studio
     * Exemplarische Bilanzierung
     * Bilanz einer LED Wall
@@ -40,7 +106,7 @@ layout: false
 ---
 template:inverse
 
-### Status Quo
+### Einleitung & Überblick
 # *Clean? Green?*
 
 
@@ -223,7 +289,7 @@ Wo stehen wir in diesem Kontext...
 * Gesamtbetrag von Kohlenstoffdioxid-Emissionen (CO<sub>2</sub>-Bilanz, Treibhausgasbilanz, CO<sub>2</sub>-Fußabdruck)
 
 ---
-.header[Begriffsklärung | Treibhausgasemissionen]
+.header[Begriffsklärung | Treibhausgasemission]
 
 ## Intuitive Quantifizierung
 
@@ -279,7 +345,7 @@ Ziel: eine Tonne CO2 pro Mensch
 “Um ein 95-Prozent-Ziel zu realisieren und damit Treibhausgasneutralität herzustellen, wäre für Deutschland eine Pro-Kopf-Emission von einer Tonne pro Jahr in 2050 zu realisieren.” Diese Zahl bezieht sich auf den gesamten Lebensbereich, neben Verkehr auch auf Energie, Konsum und Ernährung.
 
 ---
-.header[Begriffsklärung | Treibhausgasemissionen]
+.header[Begriffsklärung | Treibhausgasemission]
 
 ## CO<sub>2</sub>-Fußabdruck in Deutschland
 
@@ -293,34 +359,110 @@ Ziel: eine Tonne CO2 pro Mensch
 
 ## CO<sub>2</sub>-Fußabdruck
 
-Fun fact: 
+*Fun fact: *
 
 > Allgemeine Bekanntheit erreichte der Begriff carbon footprint durch eine 250 Millionen US-Dollar teure Werbekampagne des Öl- und Gas-Konzerns BP im Jahr 2004 als Versuch, die Wahrnehmung der Verantwortung für die globale Erwärmung von der fossilen Energiewirtschaft hin zum individuellen Verbraucher zu lenken.
 
 .footnote[[Wikipedia. [*CO<sub>2</sub>-Bilanz*](https://de.wikipedia.org/wiki/CO2-Bilanz#cite_note-:3-3)]]
 
+--
+
+Nichtsdestotrotz:
+
+* Funktionale Metrik
+* Bestimmung ist nach wie vor eine Herausforderung (→ Teil 2)
 
 ---
-.header[Begriffsklärung]
+.header[Begriffsklärung | Treibhausgasemissionen | CO<sub>2</sub>-Fußabdruck]
+
+## Beispiel Videostreaming
+
+???
+.task[COMMENT:]  
+
+...Emission durch Videostreaming fehlerhaft war. Basierend auf Berechnungen die inzwischen berichtet worden sind, wurde die CO<sub>2</sub>-Emission von Videostreaming dramatisiert. 
+
+--
+
+* Fehlerhafte Medienberichte
+* Aktuell ist die CO<sub>2</sub>-Emission von Videostreaming vergleichsweise gering
+    * 1h, 50" LED TV, HD, WiFi => 31 g CO<sub>2</sub>e (entspricht einer Wasserkochernutzung)
+
+.footnote[[George Kamiya. 2020. [*The Carbon Footprint Of Streaming Video Fact Checking The Headlines*](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines). International Energy Agency.]]
+
+
+
+???
+.task[COMMENT:]  
+
+Aktuelle Zahlen belegen, dass 1h Video Streamen undgefähr der CO<sub>2</sub> Emission der Nutzung eines Wasserkochers entspricht.
+
+Aber, und hier kommt ein sehr großes ABER...
+
+--
+
+
+
+ABER
+
+* Exponentielles Wachstum von Videostreaming
+
+
+
+???
+.task[COMMENT:]  
+
+...die Nutzung von Videostreaming und z.B. Online Gaming wächst exponentiell. Wir haben durch Corona gelernt das ein exponentielles Wachstum sehr schnell ist und somit natürlich auch Videostreaming zum Problem wird. 
+
+Aber leider hilft meiner Meinung nach sensationsgetriebene Berichterstattung, wenn auch natürlich aus der richtigen Perspektive kommend, nicht. Wir brauchen Transparenz und Fakten um sinnvoll agieren zu können.
+
+Das bringt mich zum Blick auf aktuelle Aktivitäten. Z.B. benutzt Netflix laut eigener Angaben...
+
+-------------------
+
+* Streaming services are another significant part of the total emissions of the entertainment industry. The latest figures for Netflix's total streaming hardware infrastructure power consumption rose more than 27.5% between 2020 and 2021. The power consumption from all other operations at Netflix rose more than 80% during that same time. Netflix does source it's power from renewable sources, but this still represent a significant increase. (source (p. 3): https://s22.q4cdn.com/959853165/files/doc_downloads/2022/03/30/2021-SASB-Report-FINAL.pdf)
+
+
+Set against all this is the fact that consumption of streaming media is growing rapidly. Netflix subscriptions grew 20% last year to 167m, while electricity consumption rose 84%.
+
+Many new video streaming and cloud gaming services have also launched in recent months. Particularly noteworthy is the rapid growth in video traffic over mobile networks, which is growing at 55% per year. Phones and tablets already account for more than 70% of the billion hours of YouTube streamed every day.
+
+The ease of accessing streaming media is leading to a large rebound effect, with overall streaming video consumption rising rapidly. But the complexity of direct and indirect effects of digital services, such as streaming video, e-books, and online shopping, make it immensely challenging to quantify the net environmental impacts, relative to alternative forms of consumption.
+
+Moreover, emerging digital technologies, such as machine learning, blockchain, 5G, and virtual reality, are likely to further accelerate demand for data centre and network services. Researchers have started to study the potential energy and emissions impacts of these technologies, including blockchain and machine learning.
+
+It is becoming increasingly likely that efficiency gains of current technologies may be unable to keep pace with this growing data demand. To reduce the risk of rising energy use and emissions, investments in RD&D for efficient next-generation computing and communications technologies are needed, alongside continued efforts to decarbonise the electricity supply.
+
+
+
+
+---
+.header[Begriffsklärung | Treibhausgasemissionen]
 
 ## CO<sub>2</sub>-Fußabdruck
 
 > Wir benutzen grünen Strom - es ist also alles gut!
-
---
   
-* Rohstoffe
-* Verschmutzung 
-* Abfälle
+* Netflix verwendet nach eigenen Angaben Strom aus erneuerbaren Energiequellen
+
+
+.footnote[Netflix. 2021. [*Environmental Social Governance Report*](https://s22.q4cdn.com/959853165/files/doc_downloads/2022/03/30/2021-SASB-Report-FINAL.pdf).]
+
+
+???
+.task[COMMENT:]  
+
+...ausschließlich Strom aus erneuerbaren Energiequellen. Immerhin.
+
 
 --
 
 ### Emissionen der Herstellungs- und Entsorgungsprozesse?!
 
 * Rechenzentren Nutzungsphase 80 %
-* IT-Produkten für Endkonsumenten Herstellungsphase 75 - 98 %
+* IT-Produkte für Endkonsumenten **Herstellungsphase 75 - 98 %**
 
-.footnote[[Jens Gröger. 2022. [*Was ist Green IT?*](https://www.oeko.de/publikationen/p-details/was-ist-green-it). International Energy Agency.]]
+.footnote[[Jens Gröger. 2022. [*Was ist Green IT?*](https://www.oeko.de/publikationen/p-details/was-ist-green-it). Öko-Institut e.V.]]
 
 
 ---
@@ -357,8 +499,8 @@ Nachhaltigkeit als Verkaufsargument.
 
 * Schwer überprüfbar
 * Keine Standards, fehlende rechtlich bindende Definitionen
-    * Bilder und Symbole, Begriff und Rhetorik
-    * Werbung mit Selbstverständlichkeit
+    * Bilder und Symbole, Begriffe und Rhetorik
+    * Werbung mit Selbstverständlichkeiten
 * CO<sub>2</sub>-Kompensation
 
 .footnote[[Annika Witzel. 2019. [*Darum ist Greenwashing ein Problem*](https://www.quarks.de/umwelt/klimawandel/darum-ist-greenwashing-ein-problem/). Quarks., Jan Tolzmann. 2021. [*Wie sinnvoll ist die freiwillige CO2-Kompensation?*](https://www.quarks.de/umwelt/klimawandel/das-bringt-es-co2-emissionen-zu-kompensieren/). Quarks.]]
@@ -373,25 +515,310 @@ Nachhaltigkeit als Verkaufsargument.
 > Als Verbraucher:innen müssen wir noch aufmerksamer sein, als Unternehmen tatsächlich nachhaltig!
   
 
+
+* Transparenz und Rechenschaftspflicht
+* Vielschichtige Ansätze
+* Realitätsnähe
+
 ???
 .task[COMMENT:]  
 
    NABU-Siegel-Check: Erste App mit Fotoerkennung von Lebensmittellogos
 
+<!-- It's important to distinguish between real progress towards sustainability and mere greenwashing. Green production is a valuable goal, but it should never be used as a cover for unsustainable practices. 
+
+- **Transparency and Accountability**: Companies must be transparent about their environmental impact and held accountable for their claims.
+
+- **Sustainability is Multifaceted**: It's not just about carbon emissions, but also about waste production, water usage, the sourcing of materials, the treatment of workers, and more.
+
+- **Future Visions Must Be Grounded in Reality**: While it's exciting to think about future technologies and practices that could revolutionize the industry, we must also focus on the tangible steps we can take right now to reduce our impact. 
+-->
+
+Es ist wichtig, zwischen echtem Fortschritt in Richtung Nachhaltigkeit und bloßer Greenwashing zu unterscheiden. Green Production ist ein wertvolles Ziel, aber es sollte nie als Deckmantel für nicht nachhaltige Praktiken verwendet werden.
+
+- **Transparenz und Rechenschaftspflicht**: Unternehmen müssen transparent über ihre Umweltauswirkungen sein und für ihre Behauptungen zur Rechenschaft gezogen werden.
+
+- **Nachhaltigkeit ist vielschichtig**: Es geht nicht nur um Kohlenstoffemissionen, sondern auch um Abfallproduktion, Wasserverbrauch, die Beschaffung von Materialien, die Behandlung von Arbeitnehmern und mehr.
+
+- **Zukunftsvisionen müssen in der Realität verankert sein**: Während es aufregend ist, über zukünftige Technologien und Praktiken nachzudenken, die die Branche revolutionieren könnten, müssen wir uns auch auf die greifbaren Schritte konzentrieren, die wir gerade jetzt unternehmen können, um unseren Einfluss zu reduzieren.
+
+
+
+
+
 ---
 template:inverse
 
-### Status Quo - *Clean? Green?*
+### Einleitung & Überblick
+# Filmproduktion
 
-## Diskussion
+???
+.task[COMMENT:]  
+
+... für z.B. Filmproduktionen?
+
+---
+.header[Aktuelle Zahlen und Aktivitäten]
+
+## Zahlen 
+
+.center[<img src="./img/report.png" alt="report" style="width: 96%;">]
+
+.footnote[[[Sustainable Production Alliance, 2021: Carbon Emissions of
+Film and Television Production]](https://greenproductionguide.com/wp-content/uploads/2021/04/SPA-Carbon-Emissions-Report.pdf)]
+
+???
+
+Das beantwortet sehr ausführlich ein Bericht der Sustainable Production Alliance, zu der eigenlich alle großen Namen in Nordamerika in Film und Fernsehen gehören, wie z.B. Amazon, Disney, Fox, NBC, Netflix, Participant, Sony, Warner.
+
+Die Zahlen sind natürlich nicht deckungsgleich zu der deutschen Filmlandschaft, aber meiner Meinung nach nichtsdestotrotz representativ.
+
+Der Bericht fasst zusammen...
+
+------------
+
+Die neuesten Zahlen und umfangreichste Branchenumfrage zur Umweltbelastung in der Filmindustrie ist von März 2021 einem Bericht der Sustainable Production Alliance, einem Konsortium von Studios, Produktionsfirmen und Streaming-Diensten einschließlich Amazon Studios, Amblin Partners, Disney, Fox Corporation, NBCUniversal, Netflix, Participant, Sony Pictures Entertainment, ViacomCBS und WarnerMedia. Der Bericht umfasst 161 Spielfilme, von großen Blockbustern bis hin zu mittleren und kleinen Filmen, sowie 266 Fernsehserien von 2016 bis 2019.
+
+---
+.header[Aktuelle Zahlen und Aktivitäten]
+
+## Durchschnittliche CO<sub>2</sub>-Emission Pro Film
+
+.center[<img src="./img/avg-emissions-per-feature.png" alt="avg-emissions-per-feature" style="width: 100%;">]
+
+.footnote[[[Sustainable Production Alliance, 2021: Carbon Emissions of
+Film and Television Production]](https://greenproductionguide.com/wp-content/uploads/2021/04/SPA-Carbon-Emissions-Report.pdf)]
+
+???
+
+...das Filmproduktionen von ca. 3000 Tonnen Co2 Emissions für Blockbuster bis zu ca. 400 Tonnen von kleinen Filme reichen. Es gibt die Aussage, dass Hollywood zeitweise mehr CO2 (15 Mio. t in 2006) ausgestoßen hat oder ausstößt als die Luftfahrtindustrie.
+
+Im Vergleich erzeugt ein Flug von Berlin nach Boston ca 1 Tonne Co2 pro Person. 
+
+Der Bericht fasst des weiteren zusammen, dass ca. die Hälfte der Emissionen...
+
+-----------
+
+* Die Filme in der Umfrage hatten einen durchschnittlichen CO2-Fußabdruck von 3.370 Tonnen - oder etwa 33 Tonnen pro Drehtag. Große Filme hatten einen CO2-Fußabdruck von 1.081 Tonnen, mittlere Filme hatten einen CO2-Fußabdruck von 769 Tonnen, während kleine Filme einen CO2-Fußabdruck von 391 Tonnen hatten.
+* Ein Tentpole-Film hat ein Budget von über 70 Millionen US-Dollar; eine große Produktion liegt zwischen 40 und 70 Millionen US-Dollar; eine mittlere Produktion liegt zwischen 20 und 40 Millionen US-Dollar; und eine kleine Produktion liegt unter 20 Millionen US-Dollar. Klein schließt klein, Mikro- und Digitalproduktionen ein.
+
+
+## Feature Films
+
+.center[<img src="./img/tentpole-feauture-emissions-by-category.png" alt="tentpole-feauture-emissions-by-category" style="width: 100%;">]
+
+.footnote[[[Sustainable Production Alliance, 2021: Carbon Emissions of
+Film and Television Production]](https://greenproductionguide.com/wp-content/uploads/2021/04/SPA-Carbon-Emissions-Report.pdf)]
+
+Bei allen Spielfilmproduktionen trugen Flugreisen und Versorgungsunternehmen in etwa gleichem Maße zum Gesamt-CO2-Fußabdruck bei. Bei großen Filmen trugen Flugreisen und Versorgungsunternehmen etwa 24 % bzw. 22 % des CO₂-Fußabdrucks bei. Unterbringungen wie Hotels und Wohnungen machten den geringsten Teil der Kohlenstoffemissionen aus und trugen nur 6 % zu großen Filmen bei.
+
+
+---
+.header[Aktuelle Zahlen und Aktivitäten | Durchschnittliche CO<sub>2</sub>-Emission Pro Film]
+
+## Deutschland
+
+.center[<img src="./img/bilanz_dt_01.png" alt="bilanz_dt_01" style="width: 80%;">]
+
+.footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
 
 
 ???
 .task[COMMENT:]  
 
-* Andere Meinungen?
-* Fehlt etwas?
-* Welche anderen Faktoren brauchen wir?
+* Die Gesamtemissionen der einzelnen Produktionen unterscheiden sich deutlich voneinander. Der
+geringste Gesamtausstoß liegt bei etwa 12 Tonnen CO2e (1-14), der höchste bei 148 Tonnen CO2e
+(1-27) und damit um mehr als das Zwölffache über dem niedrigsten Wert. Der arithmetische
+Mittelwert beträgt rund 64 Tonnen CO2e. I
+
+
+---
+.header[Aktuelle Zahlen und Aktivitäten | Durchschnittliche CO<sub>2</sub>-Emission Pro Film]
+
+## Filmuniversität
+
+* Bis zu 100 Produktionen im Jahr
+* *Mini*-Produktionen → ca. 5-10 Tonnen CO<sub>2</sub>e
+
+### -> 500 - 1.000 Tonnen im Jahr
+
+### -> 25.000 - 50.000 Bäume für eine Absorption
+
+
+---
+.header[Aktuelle Zahlen und Aktivitäten | Durchschnittliche CO<sub>2</sub>-Emission Pro Film]
+
+## Anteile der Sektoren
+
+.center[<img src="./img/bilanz_dt_sektoren_01.png" alt="bilanz_dt_01" style="width: 100%;">]
+
+
+.footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
+
+
+
+
+
+
+---
+.header[Aktuelle Zahlen und Aktivitäten]
+
+## Umsetzung von Nachhaltigen Aktivitäten
+
+
+.center[<img src="./img/sustainability-adoption.png" alt="Studio Sustainable Best Practices adoption rate" style="width: 100%;">]
+
+.footnote[[[Sustainable Production Alliance. 2022. *SPA Soundstage
+Facility Survey Key Takeaways*]](https://greenproductionguide.com/wp-content/uploads/2022/08/SPA-Report_05.25_FINAL_with_infographic.pdf)]
+
+???
+
+...noch 40% der befragten Einrichtungen "niedrige" Raten in der Umsetzung von Nachhaltigen Aktivitäten hatten (<40% der Fragen zu nachhaltigen Best Practices wurden mit "Ja" beantwortet), während nur 8% die meisten Empfehlungen zu nachhaltiger Produktionen umsetzen (mehr als 80% der Fragen zu nachhaltigen Best Practices mit "Ja" beantworteten -> Hohe Übernahme)
+
+Nichtsdestotrotz gibt es positive Beispiele, wie z.B. die Tatort Produktion aus 2015, die...
+
+-----------
+
+
+<!-- The Report from March 2021 showed that for tentpole productions, at least 25% of all emissions came from utilities. For multicamera television series, that number is close to 50%.
+
+SPA released a report in May 2022, surveying 50 facilities from 37 cities in 9 countries from June to October 2021.
+
+The report found that 40% had "low" adoption rates (<40% of questions about sustainable best practices answered affirmatively), while only 8% answered more than 80% of questions about sustainable best pracices with a "yes" (High adoption) -->
+
+Der Bericht vom März 2021 zeigte, dass für Großproduktionen mindestens 25% aller Emissionen von den Versorgungsunternehmen stammen. Für Multi-Kamera-Fernsehserien liegt diese Zahl nahe bei 50%.
+
+SPA veröffentlichte im Mai 2022 einen Bericht, in dem 50 Einrichtungen aus 37 Städten in 9 Ländern von Juni bis Oktober 2021 befragt wurden.
+
+Der Bericht ergab, dass 40% "niedrige" Übernahmeraten hatten (<40% der Fragen zu nachhaltigen Best Practices wurden mit "Ja" beantwortet), während nur 8% mehr als 80% der Fragen zu nachhaltigen Best Practices mit "Ja" beantworteten (Hohe Übernahme)
+
+
+
+.center[<img src="./img/renewable-energy.png" alt="renewable-energy" style="width: 100%;">]
+
+.footnote[[[Sustainable Production Alliance, 2021: Carbon Emissions of
+Film and Television Production]](https://greenproductionguide.com/wp-content/uploads/2021/04/SPA-Carbon-Emissions-Report.pdf)]
+
+Zum Beispiel sagten 62% der Studiobetriebe, dass sie Strom aus erneuerbaren Quellen von einem Anbieter beziehen.
+
+
+## Aktivitäten
+
+.center[<img src="./img/heating.png" alt="heating" style="width: 100%;">]
+
+.footnote[[[Sustainable Production Alliance. 2022. *SPA Soundstage
+Facility Survey Key Takeaways*]](https://greenproductionguide.com/wp-content/uploads/2022/08/SPA-Report_05.25_FINAL_with_infographic.pdf)]
+
+Aber 82% der Studios verwendeten immer noch Erdgas zum Heizen ihrer Einrichtungen, was einen möglichen Verbesserungsbereich darstellt.
+
+
+Der Green Production Guide hat einige mögliche Verbesserungsbereiche in den Studios zusammengestellt, darunter das Abschalten der Klimaanlage, wenn die Studiotüren offen sind, und Kühlschränke für Lebensmittelspenden.
+
+---
+.header[Aktuelle Zahlen und Aktivitäten | Umsetzung von Nachhaltigen Aktivitäten]
+
+## Green Production: Tatort
+
+* Einsparung von 42% der CO<sub>2</sub>-Emission
+* CO<sub>2</sub>-Emission in Tonnen. Green Production Ergenisse links, reguläre Ergebnisse rechts:
+
+.center[<img src="./img/tatort-co2-2015.png" alt="tatort-co2-2015" style="width: 70%;">]
+
+.footnote[[MFG Medien- und Filmgesellschaft Baden-Württemberg, Arbeitskreis Green Shooting. 2021. [*Tatort: Fünf Minuten Himmel - Green Shooting Ergebnisbericht*](https://greenshooting.mfg.de/files/02_MFG_Filmfoerderung/PDF/tatort_green_shooting_ergebnisbericht.pdf).]]
+
+???
+
+...entsprechende Maßnahmen des Green-Producing 42% weniger Emissionen produziert hat. Man könnte also sagen, es geht doch und das schon seit einer ganzen Weile.
+
+Abschließend kommen wir zu einem...
+
+
+
+--------------
+
+* Als Beispiel aus Deutschland hat der TV-Film Tatort: „Fünf Minuten Himmel“ (2015) als Ergebnis des Green-Producing 42% weniger Emissionen produziert und dabei 53 Tonnen CO2-Ausstoß eingespart.
+
+
+
+
+---
+template:inverse
+
+# Ausblick
+
+
+???
+.task[COMMENT:]  
+
+...Ausblick. Um sich noch mal grundlegend vor Augen zu führen, wo wir hinwollen...
+
+---
+## Ausblick
+
+.center[<img src="./img/goals_01.jpg" alt="goals_01" style="width: 100%;">]
+
+.footnote[[United Nations. 2023. *The 2030 Agenda for Sustainable Development*. Department of Economic and Social Affairs.]]
+
+
+???
+.task[COMMENT:]  
+
+...haben wir die Nachhaltigkeitsziele der UN, die neben der Gesundheit des Planeten - wenn das auch meine Meinung Basis für alles ist - Nachhaltigkeit in allen Bereichen unserer Realität als Ziele formuliert.
+
+Von diesem Fernziel noch mal zurück auf Filmproduktion im hier und jetzt. Es gibt eine Vielzahl an technologischen Entwicklungen...
+
+---
+.header[Ausblick]
+
+## Technologien
+
+- Virtual Production
+- KI-gesteuertes Nachhaltigkeitsmanagement
+- 3D-Druck von Requisiten und Sets
+- Digital Asset Sharing
+- Virtual Reality Scouting
+- Drohnentechnologie
+- Long-term Speicherung
+
+???
+
+...die uns bei der Verringerung von Treibhausgas-Emissionen unterstützen. Hier sind aktuell vor allem virtuelle Produktionsmethoden im Fokus, die es z.B. ermöglichen dreckige Reisen durch ein Abfilmen computergenrierte Inhalte auf einer LED Wand zu ersetzen.
+
+Auch möchte ich auf ein Projekt hinweisen, an dem wir aktuell an der Filmuni arbeiten, bei dem es...
+
+--------------
+
+- **KI-gesteuertes Nachhaltigkeitsmanagement:** Es könnten Machine-Learning-Modelle entwickelt werden, die die Umweltauswirkungen verschiedener Produktionsentscheidungen vorhersagen. Dies könnte beispielsweise die Vorhersage der Emissionen eines bestimmten Drehorts, die Wahl umweltfreundlicherer Transportwege, die Optimierung der Energieeffizienz von Ausrüstung usw. beinhalten.
+- **3D-Druck von Requisiten und Sets:** Mit umweltfreundlichen Materialien könnte der 3D-Druck genutzt werden, um Requisiten, Kostüme und sogar Sets zu erstellen. Dies könnte den Abfall erheblich reduzieren und das Recycling dieser Gegenstände nach Gebrauch erleichtern.
+- **Digital Asset Sharing:** Um die Erstellung neuer Assets für jede Produktion zu reduzieren, könnte eine digitale Asset-Sharing-Plattform geschaffen werden. Dies würde es den Produktionen ermöglichen, digitale Assets, wie 3D-Modelle oder virtuelle Sets, zu teilen und wiederzuverwenden, wodurch die Notwendigkeit der Erstellung und Bearbeitung von neuen Assets reduziert wird.
+- **Virtual Reality (VR) Scouting:** Location Scouting kann eine Quelle für erhebliche CO2-Emissionen sein, insbesondere wenn es internationale Reisen beinhaltet. Mit Fortschritten in der VR könnten Regisseure und Produzenten Orte virtuell besuchen, ohne ihre Büros verlassen zu müssen.
+- **Drohnentechnologie:** Drohnen können in der nachhaltigen Filmproduktion mehrere Zwecke erfüllen. Sie können für Aufnahmen von Luftbildern verwendet werden, wodurch der Bedarf an Hubschrauberflügen reduziert wird. Drohnen können auch für Location Scouting eingesetzt werden, was erneut die Notwendigkeit umfangreicher Reisen minimiert.
+- **Long-term digitale Speicherung:** Der Bedarf, digitale Backups von Medienrohmaterial zu speichern, ist in Bezug auf Emissionen teuer, da Rechenzentren (insgesamt) 2% der globalen Emissionen ausmachen. Ein Wechsel zur Langzeitspeicherung auf Band kann den Bedarf an "online" Cloud-Datenspeicherung reduzieren.
+
+.center[<img src="./img/vp-vs-location.png" alt="vp-vs-location" style="width: 90%;">]
+
+.footnote[Source: [Variety](https://variety.com/2022/artisans/news/virtual-production-small-budget-1235236717/)]
+
+
+<!-- Virtual Production has the potential to offset a significant portion of emissions from location shoots. In a theoretical comparison made by the UK-based Garden Studios, producers calculated that a short film with 10 locations (including one overseas location) shot on a virtual production set would contribute less than 1% of the carbon footprint of the location shoot (only 0.74 Tons vs. 94.8 Tons), because of 90% of the cost of the location shoot would have been transportation. -->
+
+Virtuelle Produktion hat das Potenzial, einen erheblichen Teil der Emissionen von Dreharbeiten vor Ort zu kompensieren. In einem theoretischen Vergleich, den die in Großbritannien ansässigen Garden Studios anstellten, berechneten Produzenten, dass ein Kurzfilm mit 10 Drehorten (einschließlich einem Auslandsdrehort) auf einem virtuellen Produktionset weniger als 1% des CO2-Fußabdrucks des Drehorts ausmachen würde (nur 0,74 Tonnen gegenüber 94,8 Tonnen), da 90% der Kosten des Drehorts für den Transport anfallen würden.
+
+<!-- context:
+"To illustrate just how significant the problem is we recently compared the carbon footprint of a virtual shoot against the same shoot produced on location.  The actual film was shot on our virtual stage, at Garden Studios in London, and then we worked out a hypothetical location shoot scenario where we estimated the number of days/crew/props etc., which was then verified by independent producers. We used the Albert/AdGreen Carbon Calculator which was all certified by them. We shot 10 interior and exterior scenes, which took two days on our virtual stage using CG backgrounds compared to the equivalent location shoot that would have taken five days, including one overseas shoot day.
+
+The virtual shoot created 0.74 tonnes of CO2, compared to 94.82 tonnes for the location shoot or less than 1%. That’s nearly 130 times the amount of carbon produced." Source: https://variety.com/2022/artisans/news/virtual-production-small-budget-1235236717/ -->
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 template:inverse
@@ -426,6 +853,9 @@ Einblicke, welche Techniken schon erprobt sind und sich gut umsetzen ließen, z.
 
 Welche Elemente haben welche Auswirkungen?
 
+https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/elektrogeraete/computer-pc-laptop#gewusst-wie
+
+https://www.blauer-engel.de/de
 
 ---
 .header[IT & Cloud Komponenten]
