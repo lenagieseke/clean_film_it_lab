@@ -55,21 +55,14 @@ layout: false
 
 ## Agenda
 
-09:30 - 10:00   Vorstellungen & Intro  
-  
-10:00 - 10:30   Teil 1 – Einleitung & Überblick  
-  
-10:30 - 11:15   Teil 2 – Reality-Check  
-  
-11:30 - 11:45   Teil 3 – Kontext & Ausblick  
-  
-11:45 - 12:45   Teil 4 – Diskussion *Wo stehen wir?*  
-  
-14:00 - 16:00   Teil 5 – Die Nächsten Schritte  
-  
-16:30 - 17:30    Diskussionsrunde  
-  
-ab 17:45  Get-Together  
+* Vorstellungen & Intro    
+* Teil 1 – Einleitung & Überblick  
+* Teil 2 – Reality-Check  
+* Teil 3 – Kontext & Ausblick  
+* Teil 4 – Diskussion *Probleme in der Praxis*  
+* Teil 5 – Die Nächsten Schritte  
+* Diskussionsrunde  
+* Get-Together  
 
 
 ---
@@ -83,9 +76,7 @@ template:inverse
 # Einleitung & Überblick
 
 ---
-
-
-## Agenda
+## Einleitung & Überblick
 
 * Begriffsklärung
     * Grün
@@ -93,15 +84,13 @@ template:inverse
     * Ökologischer Fußabdruck
     * Co2e Emission
     * Green Washing
+* Filmproduktion
+    * Aktuelle Zahlen und Aktivitäten
 * IT & Cloud Komponenten
-    * Berechnungsmethoden
+    * Komponenten
     * Exemplarisches Studio
-    * Exemplarische Bilanzierung
-    * Bilanz einer LED Wall
-    * Bilanz einer LED Wall
-* Aktuelle Probleme
-* Aktuelle Lösungsansätze
-
+    * Exemplarische Schätzungen
+    * Ausblick Technologie
 
 ---
 template:inverse
@@ -386,7 +375,7 @@ Nichtsdestotrotz:
 
 * Fehlerhafte Medienberichte
 * Aktuell ist die CO<sub>2</sub>-Emission von Videostreaming vergleichsweise gering
-    * 1h, 50" LED TV, HD, WiFi => 31 g CO<sub>2</sub>e (entspricht einer Wasserkochernutzung)
+    * 1h, 50" LED TV, HD, WiFi => ca. 31 g CO<sub>2</sub>e (entspricht einer Wasserkochernutzung)
 
 .footnote[[George Kamiya. 2020. [*The Carbon Footprint Of Streaming Video Fact Checking The Headlines*](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines). International Energy Agency.]]
 
@@ -395,7 +384,7 @@ Nichtsdestotrotz:
 ???
 .task[COMMENT:]  
 
-Aktuelle Zahlen belegen, dass 1h Video Streamen undgefähr der CO<sub>2</sub> Emission der Nutzung eines Wasserkochers entspricht.
+Aktuelle Zahlen belegen, dass 1h Video Streamen ungefähr der CO<sub>2</sub> Emission der Nutzung eines Wasserkochers entspricht.
 
 Aber, und hier kommt ein sehr großes ABER...
 
@@ -544,8 +533,6 @@ Es ist wichtig, zwischen echtem Fortschritt in Richtung Nachhaltigkeit und bloß
 
 
 
-
-
 ---
 template:inverse
 
@@ -646,21 +633,6 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 
 
 ---
-.header[Aktuelle Zahlen und Aktivitäten | Durchschnittliche CO<sub>2</sub>-Emission Pro Film]
-
-## Anteile der Sektoren
-
-.center[<img src="./img/bilanz_dt_sektoren_01.png" alt="bilanz_dt_01" style="width: 100%;">]
-
-
-.footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
-
-
-
-
-
-
----
 .header[Aktuelle Zahlen und Aktivitäten]
 
 ## Umsetzung von Nachhaltigen Aktivitäten
@@ -677,42 +649,6 @@ Facility Survey Key Takeaways*]](https://greenproductionguide.com/wp-content/upl
 
 Nichtsdestotrotz gibt es positive Beispiele, wie z.B. die Tatort Produktion aus 2015, die...
 
------------
-
-
-<!-- The Report from March 2021 showed that for tentpole productions, at least 25% of all emissions came from utilities. For multicamera television series, that number is close to 50%.
-
-SPA released a report in May 2022, surveying 50 facilities from 37 cities in 9 countries from June to October 2021.
-
-The report found that 40% had "low" adoption rates (<40% of questions about sustainable best practices answered affirmatively), while only 8% answered more than 80% of questions about sustainable best pracices with a "yes" (High adoption) -->
-
-Der Bericht vom März 2021 zeigte, dass für Großproduktionen mindestens 25% aller Emissionen von den Versorgungsunternehmen stammen. Für Multi-Kamera-Fernsehserien liegt diese Zahl nahe bei 50%.
-
-SPA veröffentlichte im Mai 2022 einen Bericht, in dem 50 Einrichtungen aus 37 Städten in 9 Ländern von Juni bis Oktober 2021 befragt wurden.
-
-Der Bericht ergab, dass 40% "niedrige" Übernahmeraten hatten (<40% der Fragen zu nachhaltigen Best Practices wurden mit "Ja" beantwortet), während nur 8% mehr als 80% der Fragen zu nachhaltigen Best Practices mit "Ja" beantworteten (Hohe Übernahme)
-
-
-
-.center[<img src="./img/renewable-energy.png" alt="renewable-energy" style="width: 100%;">]
-
-.footnote[[[Sustainable Production Alliance, 2021: Carbon Emissions of
-Film and Television Production]](https://greenproductionguide.com/wp-content/uploads/2021/04/SPA-Carbon-Emissions-Report.pdf)]
-
-Zum Beispiel sagten 62% der Studiobetriebe, dass sie Strom aus erneuerbaren Quellen von einem Anbieter beziehen.
-
-
-## Aktivitäten
-
-.center[<img src="./img/heating.png" alt="heating" style="width: 100%;">]
-
-.footnote[[[Sustainable Production Alliance. 2022. *SPA Soundstage
-Facility Survey Key Takeaways*]](https://greenproductionguide.com/wp-content/uploads/2022/08/SPA-Report_05.25_FINAL_with_infographic.pdf)]
-
-Aber 82% der Studios verwendeten immer noch Erdgas zum Heizen ihrer Einrichtungen, was einen möglichen Verbesserungsbereich darstellt.
-
-
-Der Green Production Guide hat einige mögliche Verbesserungsbereiche in den Studios zusammengestellt, darunter das Abschalten der Klimaanlage, wenn die Studiotüren offen sind, und Kühlschränke für Lebensmittelspenden.
 
 ---
 .header[Aktuelle Zahlen und Aktivitäten | Umsetzung von Nachhaltigen Aktivitäten]
@@ -738,39 +674,102 @@ Abschließend kommen wir zu einem...
 
 * Als Beispiel aus Deutschland hat der TV-Film Tatort: „Fünf Minuten Himmel“ (2015) als Ergebnis des Green-Producing 42% weniger Emissionen produziert und dabei 53 Tonnen CO2-Ausstoß eingespart.
 
+---
+.header[Aktuelle Zahlen und Aktivitäten]
 
+## Umsetzung von Nachhaltigen Aktivitäten
 
+.center[<img src="./img/rechner_01.jpg" alt="rechner_01" style="width: 100%;">]
+
+.footnote[[Green Shooting. 2023. [*CO<sub>2</sub>-Rechner*](https://greenshooting.mfg.de/co2-rechner/). MFG Medien- und Filmgesellschaft Baden-Württemberg mbH.]]
+
+---
+.header[Aktuelle Zahlen und Aktivitäten]
+
+## Umsetzung von Nachhaltigen Aktivitäten
+
+.center[<img src="./img/rechner_02.jpg" alt="rechner_02" style="width: 60%;">]
+
+.footnote[[KlimAktiv. 2023. [*Drehen mit dem Klima im Blick*](https://www.klimaktiv.de/de/394/).]]
 
 ---
 template:inverse
 
-# Ausblick
+### Einleitung & Überblick
+# IT & Cloud Komponenten
+
+---
+.header[Durchschnittliche CO<sub>2</sub>-Emission Pro Film]
+
+## Anteile der Sektoren
+
+.center[<img src="./img/bilanz_dt_sektoren_01.png" alt="bilanz_dt_01" style="width: 100%;">]
+
+
+.footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
+
+---
+## IT & Cloud Komponenten
+
+.todo[TODO:]
+
+* Computerarbeitsplätze und Server (z.B. Renderfarm)
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+* Cloud Computing
+  
+  
+  
+* Klimatisierung
+* Cloud Anbieter: Informationen über eigene Maßnahmen zu Nachhaltigkeit?
+
+---
+.header[IT & Cloud Komponenten]
+
+## Schätzung Studio Setup 1
+
+.todo[TODO:]
+
+
+
+
+---
+.header[IT & Cloud Komponenten]
+
+## Schätzung Studio Setup 2
+
+
+.todo[TODO:]
+
+Survey
+* Router, LED-Leuchte, Handys, DSLR Kamera, 4K DCI Projektor, Mischpulte
+* Einblicke, welche Techniken schon erprobt sind und sich gut umsetzen ließen, z. B. Nutzung von Abwärme.
+
+
 
 
 ???
 .task[COMMENT:]  
 
-...Ausblick. Um sich noch mal grundlegend vor Augen zu führen, wo wir hinwollen...
+Welche Elemente haben welche Auswirkungen?
+
+https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/elektrogeraete/computer-pc-laptop#gewusst-wie
+
+https://www.blauer-engel.de/de
+
+
+.header[IT & Cloud Komponenten]
+
+## Schätzung LED Wall
+
+.todo[TODO:]
+
+
 
 ---
+.header[IT & Cloud Komponenten]
+
 ## Ausblick
-
-.center[<img src="./img/goals_01.jpg" alt="goals_01" style="width: 100%;">]
-
-.footnote[[United Nations. 2023. *The 2030 Agenda for Sustainable Development*. Department of Economic and Social Affairs.]]
-
-
-???
-.task[COMMENT:]  
-
-...haben wir die Nachhaltigkeitsziele der UN, die neben der Gesundheit des Planeten - wenn das auch meine Meinung Basis für alles ist - Nachhaltigkeit in allen Bereichen unserer Realität als Ziele formuliert.
-
-Von diesem Fernziel noch mal zurück auf Filmproduktion im hier und jetzt. Es gibt eine Vielzahl an technologischen Entwicklungen...
-
----
-.header[Ausblick]
-
-## Technologien
 
 - Virtual Production
 - KI-gesteuertes Nachhaltigkeitsmanagement
@@ -812,100 +811,21 @@ The virtual shoot created 0.74 tonnes of CO2, compared to 94.82 tonnes for the l
 
 
 
+.center[<img src="./img/goals_01.jpg" alt="goals_01" style="width: 100%;">]
+
+.footnote[[United Nations. 2023. *The 2030 Agenda for Sustainable Development*. Department of Economic and Social Affairs.]]
 
 
+...haben wir die Nachhaltigkeitsziele der UN, die neben der Gesundheit des Planeten - wenn das auch meine Meinung Basis für alles ist - Nachhaltigkeit in allen Bereichen unserer Realität als Ziele formuliert.
 
-
-
-
-
-
----
-template:inverse
-
-### Status Quo
-# IT & Cloud Komponenten
-
----
-.header[IT & Cloud Komponenten]
-
-## Exemplarisches Studio Setup
-
-.todo[TODO:]
-
-Mit
-
-* Computerarbeitsplätze und Servers
-* Bildschirme and Displays
-* Speicher, Cloud Storage
-* Cloud Computing
-* Survey: Router, LED-Leuchte, Handys, DSLR Kamera, 4K DCI Projektor Mischpulte
-
-
-Einblicke, welche Techniken schon erprobt sind und sich gut umsetzen ließen, z. B. Nutzung von Abwärme.
-
----
-.header[IT & Cloud Komponenten | Exemplarisches Studio Setup]
-
-## Bilanzierung
-
-.todo[TODO:]
-
-Welche Elemente haben welche Auswirkungen?
-
-https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/elektrogeraete/computer-pc-laptop#gewusst-wie
-
-https://www.blauer-engel.de/de
-
----
-.header[IT & Cloud Komponenten]
-
-## Bilanz einer LED Wall
-
----
-.header[IT & Cloud Komponenten]
-
-## Bilanz eines Filmsets
-
-
----
-template:inverse
-
-### Status Quo
-# Aktuelle Probleme?
-
-## Diskussion
+Von diesem Fernziel noch mal zurück auf Filmproduktion im hier und jetzt. Es gibt eine Vielzahl an technologischen Entwicklungen...
 
 
 
 ---
 template:inverse
 
-### Status Quo
-# Aktuelle Lösungsansätze
-
----
-## Aktuelle Lösungsansätze
-
-.todo[TODO:]
-
-* Nutzung von Abwärme?
-
-*Keine Ahnung was man hier listen könnte...*
-
-
----
-template:inverse
-
-### Teil 2
-# Trends & Ausblick
+# Reality-Check
 
 ## mit Jens Gröger
-
-
----
-template:inverse
-
-### Teil 3
-# Die Nächsten Schritte
 
