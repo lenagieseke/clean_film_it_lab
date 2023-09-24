@@ -251,8 +251,7 @@ Unser akutes Problem ist...
 
 ## Treibhausgasemissionen
 
-<img src="./img/greenhouse.jpg" alt="greenhouse" style="width:50%;">  
-[[MIT News]](https://news.mit.edu/2017/explained-greenhouse-gases-0130)
+.center[<img src="./img/greenhouse_01.png" alt="greenhouse" style="width:60%;">  [[Sustainability Illustrated]](https://www.youtube.com/watch?v=z5OYFCDOw7A)]  
 
 
 Erderwärmung ist die Folge von Treibhausgasemissionen, sowie nicht-nachhaltiger Forst- und Landwirtschaft.
@@ -630,15 +629,19 @@ Von der Gesamtemmission produzieren
 
 --
 * Keine Standards, fehlende rechtlich bindende Definitionen
+
+--
     * Bilder und Symbole, Begriffe und Rhetorik
-    * Werbung mit Selbstverständlichkeiten oder Irrelevantem
 
 --
 
 <img src="./img/bp_logo_01.png" alt="bp_logo_01" style="width:20%;"> 
---
-<img src="./img/exxon_01.png" alt="exxon_01" style="width:70%;">
 
+
+???
+.task[COMMENT:]  
+
+* The world’s largest oil and gas producer, British Petroleum, changed its identity after changing its name in 2001. The BP logo now represents Helios, after the god of Greek mythology, which symbolizes the energy of all kinds and the breadth of products.
 
 
 ---
@@ -646,8 +649,34 @@ Von der Gesamtemmission produzieren
 
 ## Green Washing
 
+> Talk clean, act dirty.
+  
+* Keine Standards, fehlende rechtlich bindende Definitionen
+    * Bilder und Symbole, Begriffe und Rhetorik
+    * Werbung mit Selbstverständlichkeiten oder Irrelevantem
+
+
+<img src="./img/bp_logo_01.png" alt="bp_logo_01" style="width:20%;"> 
+<img src="./img/exxon_01.png" alt="exxon_01" style="width:70%;">
+
+.footnote[[Geoffrey Supran and Naomi Oreskes. 2021. [*The forgotten oil ads that told us climate change was nothing*](https://www.theguardian.com/environment/2021/nov/18/the-forgotten-oil-ads-that-told-us-climate-change-was-nothing). The Guardian.]]
+
+
+???
+.task[COMMENT:]  
+
+* As for algae: America’s five largest oil and gas companies spent $3.6bn on corporate reputation advertising between 1986 and 2015. ExxonMobil has spent more on advertising than on algae research.
+* Big oil’s colonization of academia is pervasive. Shell’s ongoing sponsorship of the London Science Museum’s climate exhibition comes with a gagging clause prohibiting the museum from discrediting the company’s reputation.
+
+
+---
+.header[Begriffsklärung]
+
+## Green Washing
 
 * Tatsächliche Werte sind schwer überprüfbar
+
+--
 * CO<sub>2</sub>-Kompensation
 
 .footnote[[Annika Witzel. 2019. [*Darum ist Greenwashing ein Problem*](https://www.quarks.de/umwelt/klimawandel/darum-ist-greenwashing-ein-problem/). Quarks., Jan Tolzmann. 2021. [*Wie sinnvoll ist die freiwillige CO2-Kompensation?*](https://www.quarks.de/umwelt/klimawandel/das-bringt-es-co2-emissionen-zu-kompensieren/). Quarks.]]
@@ -658,14 +687,31 @@ Von der Gesamtemmission produzieren
 * Bsp Wenn beispielsweise ein Hersteller damit wirbt, dass die Produkte „regional“ sind, kann er das problemlos tun, ohne zu klären was „regional“ oder „von hier“ eigentlich bedeutet. Es gibt keine rechtlich bindende Definition, wo Regionalität anfängt und – vor allem – wo sie aufhört. Ebenso verhält es sich mit Worten wie „klimafreundlich“ oder „umweltschonend“. Diese Begriffe sind auch weder genau definiert, noch geschützt.
 
 --
+
+<img src="./img/carbonsubstitution_01.png" alt="carbonsubstitution_01" style="width:40%;">  
+[[Sustainability Illustrated]](https://www.youtube.com/watch?v=bYb7YLsXvzg)
+
+---
+.header[Begriffsklärung]
+
+## Green Washing
+
+
+* Tatsächliche Werte sind schwer überprüfbar
+* CO<sub>2</sub>-Kompensation
   
 > Als Verbraucher:innen müssen wir noch aufmerksamer sein, als Unternehmen tatsächlich nachhaltig!
   
+.footnote[[Annika Witzel. 2019. [*Darum ist Greenwashing ein Problem*](https://www.quarks.de/umwelt/klimawandel/darum-ist-greenwashing-ein-problem/). Quarks., Jan Tolzmann. 2021. [*Wie sinnvoll ist die freiwillige CO2-Kompensation?*](https://www.quarks.de/umwelt/klimawandel/das-bringt-es-co2-emissionen-zu-kompensieren/). Quarks.]]
 
+  
+--
 
 * Transparenz und Rechenschaftspflicht
 * Vielschichtige Ansätze
 * Realitätsnähe
+
+
 
 ???
 .task[COMMENT:]  
@@ -763,7 +809,7 @@ Bei allen Spielfilmproduktionen trugen Flugreisen und Versorgungsunternehmen in 
 
 ## Deutschland
 
-.center[<img src="./img/bilanz_dt_01.png" alt="bilanz_dt_01" style="width: 80%;">]
+.center[<img src="./img/bilanz_dt_01.png" alt="bilanz_dt_01" style="width: 90%;">]
 
 .footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
 
@@ -786,6 +832,8 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 * *Mini*-Produktionen → ca. 5-10 Tonnen CO<sub>2</sub>e
 
 ### -> 500 - 1.000 Tonnen im Jahr
+
+--
 
 ### -> 25.000 - 50.000 Bäume für eine Absorption
 
@@ -851,6 +899,20 @@ Abschließend kommen wir zu einem...
 .footnote[[KlimAktiv. 2023. [*Drehen mit dem Klima im Blick*](https://www.klimaktiv.de/de/394/).]]
 
 ---
+.header[Aktuelle Zahlen und Aktivitäten | Umsetzung von Nachhaltigen Aktivitäten]
+
+## CO<sub>2</sub>-Rechner für Film- und TV-Produktionen
+
+* SOLL-Daten, IST-Daten pro Sektor
+    * Energie, Reise/Transport, Catering, Materialeinsatz
+* Bericht CO<sub>2</sub>e Emissionen in kg
+  
+--
+  
+.center[<img src="./img/rechner_details_04.png" alt="rechner_details_04" style="width: 100%;">]
+
+
+---
 template:inverse
 
 ### Einleitung & Überblick
@@ -869,17 +931,106 @@ template:inverse
 ---
 ## IT & Cloud Komponenten
 
-.todo[TODO:]
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+* Cloud Computing
 
-* Computerarbeitsplätze und Server (z.B. Renderfarm)
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+    * Anzahl Budget-Computer (200 W)  
+        ⇾ Internet-surfen, E-Mail, Büroanwendungen, Musik hören, Bilder, Videos
+    * Anzahl Mittelklasse-Computer (> 200 W, < 500 W)   
+        ⇾ hochauflösende Videos, einfache Spiele, einfache Grafikbearbeitung
+    * Anzahl Gaming / Grafik-Computer (> 500 W)  
+        ⇾ anspruchsvolle Grafik, Grafikbearbeitung, anspruchsvolle Spiele
+* Server (z.B. Renderfarm)
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+* Cloud Computing
+
+
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+    * Hardware / Anzahl der nodes
+    * CPU, GPU
 * Bildschirme and Displays
 * Speicher, Cloud Storage
 * Cloud Computing
   
+
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+    * Hardware / Anzahl der nodes
+    * CPU, GPU
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+* Cloud Computing
+  
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+* Bildschirme and Displays
+    * CRT, LED, LCD, Plasma
+    * Bildschirmgröße
+    * LED-Wände
+* Speicher, Cloud Storage
+* Cloud Computing
+  
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+    * Datenmenge
+    * Schreibe-/Leseaktivität
+* Cloud Computing
+
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+* Cloud Computing
+    * CPU, GPU
+
+---
+## IT & Cloud Komponenten
+
+* Computerarbeitsplätze
+* Server (z.B. Renderfarm)
+* Bildschirme and Displays
+* Speicher, Cloud Storage
+* Cloud Computing
+  
+--
   
   
-* Klimatisierung
-* Cloud Anbieter: Informationen über eigene Maßnahmen zu Nachhaltigkeit?
+* Anzahl der Betriebsstunden  
+
+--
+* Ökostrom
+
+--
+* Abwärmenutzung
+
+--
+* Maßnahmen zu Nachhaltigkeit (z.B bei Anbietern)
 
 ---
 .header[IT & Cloud Komponenten]
