@@ -32,6 +32,8 @@ layout: false
 
 ## Die Ergebnisse des Labs
 
+--
+
 1. Impulse für die Branche
 
 --
@@ -75,13 +77,14 @@ template:inverse
 
 # Einleitung & Überblick
 
----
-## Einleitung & Überblick
+
+???
+.task[COMMENT:]  
 
 * Begriffsklärung
     * Grün
-    * Clean
     * Ökologischer Fußabdruck
+    * Clean
     * Co2e Emission
     * Green Washing
 * Filmproduktion
@@ -105,6 +108,25 @@ template:inverse
 ... etwas als grün oder clean zu bezeichnen?
 
 Mit grün sind zusammenfassend..
+
+
+???
+.task[COMMENT:]  
+
+Heute soll es um grüne Zukunft gehen, Stichworte die eine KI beispielsweise wie hier...
+
+---
+layout: false
+
+.center[<img src="./img/teaser_01a.png" alt="teaser_01a" style="width:90%;">]
+
+<!-- .footnote[[Lena Gieseke. 2023. Dall-E 2]] -->
+
+
+???
+.task[COMMENT:]  
+
+...zu sehen visualisiert.
 
 ---
 .header[Begriffsklärung]
@@ -135,17 +157,37 @@ Zu grünen Filmproduktionen, konkretisiert die Producers Guild of America...
 
 ## Ökologischer Fußabdruck 
 
-* *In kurz:* Indikator für ökologische Nachhaltigkeit
+--
+
+* Indikator für ökologische Nachhaltigkeit
+
+
+???
+.task[COMMENT:]  
+
+* Kurze Beschreibung, aber
+
+--
 
 > Wie viel Land umd Wasser brauchen wir, um unseren Lebensstil zu ermöglichen?
 
+.footnote[[Sustainability Illustrated. 2013. [*Ecological footprint: Do we fit on our planet?*](https://www.youtube.com/watch?v=g_aguo7V0Q4), Global Footprint Network. 2023. [*Ökologischer Fußabdruck*](https://data.footprintnetwork.org/#/countryTrends?cn=79&type=earth)]]
+
+--
+
 * Ressourcen für die Produktion, aber auch für z.B. die Entsorgung von Abfällen
-* Global verbrauchen wir 1.75 Erden
-* Verbrauch ist sehr unterschiedlich verteilt
+
+--
+
+> Global verbrauchen wir aktuell 1.75 Erden.
+
+--
+
+* Unterschiedliche Verteilung
     * Deutschland 3.25
     * Kongo 0.48
 
-.footnote[[Sustainability Illustrated. 2013. [*Ecological footprint: Do we fit on our planet?*](https://www.youtube.com/watch?v=g_aguo7V0Q4), Global Footprint Network. 2023. [*Ökologischer Fußabdruck*](https://data.footprintnetwork.org/#/countryTrends?cn=79&type=earth)]]
+
 
 
 ???
@@ -232,7 +274,7 @@ Erderwärmung ist die Folge von Treibhausgasemissionen, sowie nicht-nachhaltiger
 --
 
 * Nutzung von fossilen Energieressourcen
-* Kohlenstoffdioxid (CO<sub>2</sub>), aber auch andere Treibhausgase
+* Kohlenstoffdioxid (CO<sub>2</sub>), aber auch andere Treibhausgase (CO<sub>2</sub>e)
 
 
 
@@ -242,6 +284,8 @@ Erderwärmung ist die Folge von Treibhausgasemissionen, sowie nicht-nachhaltiger
 Durch die Nutzung fossile Energieressourcen wird Kohlenstoffdioxid (CO2), aber auch andere Treibhausgase, freigesetzt, dass Wärme in der Atmosphäre und der Nähe der Erde zurückhält.
 
 Das ist ein Problem.
+
+* CO₂-Äquivalente (CO₂e) sind eine Masseinheit zur Vereinheitlichung der Klimawirkung der unterschiedlichen Treibhausgase. 
 
 ------------------
 
@@ -282,27 +326,46 @@ Wo stehen wir in diesem Kontext...
 
 ## Intuitive Quantifizierung
 
-Eine Tonne CO₂
 
-* 0.65 Jahresverbrauch eines durchschnittlichen Haushalts
-* 0.5 Jahresverbrauch eines Benziners, 1 Jahresverbrauch eines Elektroautos
-* 138 Fleischgerichte, 1961 vegetarische Gerichte
+Eine Tonne CO₂ entspricht
+
+.footnote[[Climate Neutral Group. 2023. [*What Exactly Is 1 Tonne of CO₂?*](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2-v2/)], Tapio. [*What is a ton of CO₂, and how much CO2 do we emit?*](https://www.tapio.eco/blog/what-represents-one-ton-co2-emissions/), Umweltbundesamt. 2018. [*High costs when environmental protection is neglected*](https://www.umweltbundesamt.de/en/press/pressinformation/high-costs-when-environmental-protection-is)]
+
+--
 * 1 Flug Paris - New York
+
+--
+* 0.65 Jahresverbrauch eines durchschnittlichen Haushalts
+
+--
+* 0.5 Jahresverbrauch eines Benziners, 1 Jahresverbrauch eines Elektroautos
+
+--
+* 138 Fleischgerichte, 1961 vegetarische Gerichte
+
+--
 * Schaden im Wert von 180 Euro
   
 --
   
-> Für die Absorption müssen 50 Bäume 1 Jahr wachsen.
+> Für die Absorption einer Tonne CO₂ müssen 50 Bäume 1 Jahr wachsen.
 
 
 
-.footnote[[Climate Neutral Group. 2023. [*What Exactly Is 1 Tonne of CO₂?*](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2-v2/)], Tapio. [*What is a ton of CO₂, and how much CO2 do we emit?*](https://www.tapio.eco/blog/what-represents-one-ton-co2-emissions/), Umweltbundesamt. 2018. [*High costs when environmental protection is neglected*](https://www.umweltbundesamt.de/en/press/pressinformation/high-costs-when-environmental-protection-is)]
+
 
 
 
 
 ???
 .task[COMMENT:]  
+
+* 90 Milliard Bäume
+* 1,8 Milliarden Tonnen C02
+* Für das Jahr 2022 wurden Gesamt-Emissionen in Höhe von 746 Mio. t berichtet. Die Emissionen sinken um 1,9 Prozent gegenüber dem Jahr 2021.
+
+
+
 
 https://de.globometer.com/kategorie/umwelt
 
@@ -336,11 +399,32 @@ Ziel: eine Tonne CO2 pro Mensch
 ---
 .header[Begriffsklärung | Treibhausgasemission]
 
+## CO<sub>2</sub>-Fußabdruck
+
+--
+
+* Funktionale Maßeinheit
+* Gesamtbetrag von Kohlenstoffdioxid-Emissionen
+
+.footnote[[Wikipedia. 2023. [*CO2-Bilanz*](https://de.wikipedia.org/wiki/CO2-Bilanz)]]
+
+???
+.task[COMMENT:]  
+
+* die direkt und indirekt durch Aktivitäten verursacht wird oder während der Lebensstadien eines Produktes entstehen
+
+--
+
+.center[<img src="./img/c02_footprint_01.png" alt="c02_footprint_01" style="width:80%;">]  
+
+---
+.header[Begriffsklärung | Treibhausgasemission]
+
 ## CO<sub>2</sub>-Fußabdruck in Deutschland
 
 .center[<img src="./img/co2_fussabdruck.png" alt="co2_fussabdruck" style="width:80%;">]
 
-.footnote[[Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz . 2023. [*Kohlenstoffdioxid-Fußabdruck pro Kopf in Deutschland*](https://www.bmuv.de/media/kohlenstoffdioxid-fussabdruck-pro-kopf-in-deutschland)]]
+.footnote[[Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. 2023. [*Kohlenstoffdioxid-Fußabdruck pro Kopf in Deutschland*](https://www.bmuv.de/media/kohlenstoffdioxid-fussabdruck-pro-kopf-in-deutschland)]]
 
 
 ---
@@ -348,18 +432,44 @@ Ziel: eine Tonne CO2 pro Mensch
 
 ## CO<sub>2</sub>-Fußabdruck
 
-*Fun fact: *
 
-> Allgemeine Bekanntheit erreichte der Begriff carbon footprint durch eine 250 Millionen US-Dollar teure Werbekampagne des Öl- und Gas-Konzerns BP im Jahr 2004 als Versuch, die Wahrnehmung der Verantwortung für die globale Erwärmung von der fossilen Energiewirtschaft hin zum individuellen Verbraucher zu lenken.
+* Fun fact: CO<sub>2</sub>-Fußabdruck wurde zum gängigen Begriff durch eine 100 Millionen Dollar Marketingkampagne von BP
 
-.footnote[[Wikipedia. [*CO<sub>2</sub>-Bilanz*](https://de.wikipedia.org/wiki/CO2-Bilanz#cite_note-:3-3)]]
+.footnote[[Geoffrey Supran and Naomi Oreskes. 2021. [*The forgotten oil ads that told us climate change was nothing*](https://www.theguardian.com/environment/2021/nov/18/the-forgotten-oil-ads-that-told-us-climate-change-was-nothing). The Guardian.]]
+
+
+???
+.task[COMMENT:]  
+
+* BP-Marketingkampagne Von 2004 bis 2006 führte eine  von BP im Wert von mehr als 100 Millionen Dollar pro Jahr "die Idee des 'Kohlenstoff-Fußabdrucks' ein, bevor sie zu einem gängigen Schlagwort wurde".
+* Allgemeine Bekanntheit erreichte der Begriff carbon footprint durch eine 250 Millionen US-Dollar teure Werbekampagne des Öl- und Gas-Konzerns BP im Jahr 2004 als Versuch, die Wahrnehmung der Verantwortung für die globale Erwärmung von der fossilen Energiewirtschaft hin zum individuellen Verbraucher zu lenken.
+* In 2019, BP ran a new “Know your carbon footprint” campaign on social media.
 
 --
+<img src="./img/bp_01.png" alt="bp_01" style="width:25%;">
 
-Nichtsdestotrotz:
+--
+<img src="./img/bp_02.png" alt="bp_02" style="width:31%;">
 
-* Funktionale Metrik
-* Bestimmung ist nach wie vor eine Herausforderung (→ Teil 2)
+
+
+
+---
+.header[Begriffsklärung | Treibhausgasemissionen]
+
+## CO<sub>2</sub>-Fußabdruck
+
+> Das persönliche Handeln und die Größe des eigenen CO2-Fußabdrucks sind relevant!
+  
+--
+  
+* Mögliches positives Merkmal in einem ökonomischen Kontext
+
+--
+* Die korrekte Bestimmung ist nach wie vor eine Herausforderung
+
+--
+* **→ Teil 2**
 
 ---
 .header[Begriffsklärung | Treibhausgasemissionen | CO<sub>2</sub>-Fußabdruck]
@@ -372,12 +482,15 @@ Nichtsdestotrotz:
 ...Emission durch Videostreaming fehlerhaft war. Basierend auf Berechnungen die inzwischen berichtet worden sind, wurde die CO<sub>2</sub>-Emission von Videostreaming dramatisiert. 
 
 --
-
 * Fehlerhafte Medienberichte
+  
+.footnote[[George Kamiya. 2020. [*The Carbon Footprint Of Streaming Video Fact Checking The Headlines*](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines). International Energy Agency.]]
+
+--
 * Aktuell ist die CO<sub>2</sub>-Emission von Videostreaming vergleichsweise gering
     * 1h, 50" LED TV, HD, WiFi => ca. 31 g CO<sub>2</sub>e (entspricht einer Wasserkochernutzung)
 
-.footnote[[George Kamiya. 2020. [*The Carbon Footprint Of Streaming Video Fact Checking The Headlines*](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines). International Energy Agency.]]
+
 
 
 
@@ -390,9 +503,7 @@ Aber, und hier kommt ein sehr großes ABER...
 
 --
 
-
-
-ABER
+**Aber**
 
 * Exponentielles Wachstum von Videostreaming
 
@@ -431,15 +542,14 @@ It is becoming increasingly likely that efficiency gains of current technologies
 ## CO<sub>2</sub>-Fußabdruck
 
 > Wir benutzen grünen Strom - es ist also alles gut!
-  
-* Netflix verwendet nach eigenen Angaben Strom aus erneuerbaren Energiequellen
-
-
-.footnote[Netflix. 2021. [*Environmental Social Governance Report*](https://s22.q4cdn.com/959853165/files/doc_downloads/2022/03/30/2021-SASB-Report-FINAL.pdf).]
 
 
 ???
 .task[COMMENT:]  
+
+* Z. B. verwendet Netflix nach eigenen Angaben Strom aus erneuerbaren Energiequellen
+.footnote[Netflix. 2021. [*Environmental Social Governance Report*](https://s22.q4cdn.com/959853165/files/doc_downloads/2022/03/30/2021-SASB-Report-FINAL.pdf).]
+
 
 ...ausschließlich Strom aus erneuerbaren Energiequellen. Immerhin.
 
@@ -448,8 +558,12 @@ It is becoming increasingly likely that efficiency gains of current technologies
 
 ### Emissionen der Herstellungs- und Entsorgungsprozesse?!
 
-* Rechenzentren Nutzungsphase 80 %
-* IT-Produkte für Endkonsumenten **Herstellungsphase 75 - 98 %**
+--
+
+Von der Gesamtemmission produzieren
+
+* Rechenzentren 80 % in der Nutzungsphase, 
+* IT-Produkte für Endkonsumenten **75 - 98 % in der Herstellungsphase**
 
 .footnote[[Jens Gröger. 2022. [*Was ist Green IT?*](https://www.oeko.de/publikationen/p-details/was-ist-green-it). Öko-Institut e.V.]]
 
@@ -459,23 +573,72 @@ It is becoming increasingly likely that efficiency gains of current technologies
 
 ## Beispiel Elektroautos
 
-.todo[TODO:]
+--
+* 1/5 aller Emissionen durch Autos (US)
 
-* US: 1/5 aller Emissionen durch Autos
-* Lebensdauer 15 - 20 Jahre -> Zustand bis 2040 wird jetzt festgelegt
+--
+* Lebensdauer eines Autos ca. 15 - 20 Jahre -> der Zustand bis 2040 wird jetzt festgelegt
+  
 
-> Elektroautos sind im Vergleich ökologisch nachhaltiger als Benziner
-
+--
+  
 * Woher kommt der Strom für den Betrieb?
-    * Ca. 1/3 weniger Emissionen
-* Herstellung der Batterien
+    * Ca. 1/3 weniger Emissionen im Betrieb als Benziner
+--
+* Batterien
     * Rohstoffe
-    *  Ca. 3/4 mehr Emissionen
+    * Ca. 3/4 mehr Emissionen in der Herstellung als Benziner
 
 .footnote[[David Keith und Aaron Krol. 2023. [*Electric Vehicles*](https://climate.mit.edu/explainers/electric-vehicles). MIT Climate Portal.]]
 
+
+???
+.task[COMMENT:]  
+
+* Based on a series of assumptions, the data showed that a Tesla Model 3 in the United States, for example, would need to be driven for 13,500 miles (21,725 km) before it does less harm to the environment than a Toyota Corolla. 
+
+
+
+---
+.header[Begriffsklärung | Treibhausgasemissionen]
+
+## Beispiel Elektroautos
+
+> Elektroautos sind in der Summe ökologisch nachhaltiger als Benziner.
+  
+
+.footnote[[Georg Bieker. 2021. [*A global comparison of the life-cycle greenhouse gas emissions of combustion engine and electric passenger cars*](https://theicct.org/publication/a-global-comparison-of-the-life-cycle-greenhouse-gas-emissions-of-combustion-engine-and-electric-passenger-cars/). The International Council on Clean Transportation.]]
+
 --
-> Besser: kein Autofahren!
+
+.center[<img src="./img/electriccars_01.png" alt="electriccars_01" style="width:90%;">]
+
+
+???
+.task[COMMENT:]  
+
+* Besser: kein Autofahren!
+
+---
+.header[Begriffsklärung]
+
+## Green Washing
+
+> Talk clean, act dirty.
+  
+.footnote[[Geoffrey Supran and Naomi Oreskes. 2021. [*The forgotten oil ads that told us climate change was nothing*](https://www.theguardian.com/environment/2021/nov/18/the-forgotten-oil-ads-that-told-us-climate-change-was-nothing). The Guardian.]]
+
+--
+* Keine Standards, fehlende rechtlich bindende Definitionen
+    * Bilder und Symbole, Begriffe und Rhetorik
+    * Werbung mit Selbstverständlichkeiten oder Irrelevantem
+
+--
+
+<img src="./img/bp_logo_01.png" alt="bp_logo_01" style="width:20%;"> 
+--
+<img src="./img/exxon_01.png" alt="exxon_01" style="width:70%;">
+
 
 
 ---
@@ -483,13 +646,8 @@ It is becoming increasingly likely that efficiency gains of current technologies
 
 ## Green Washing
 
-.todo[TODO:]
-Nachhaltigkeit als Verkaufsargument.
 
-* Schwer überprüfbar
-* Keine Standards, fehlende rechtlich bindende Definitionen
-    * Bilder und Symbole, Begriffe und Rhetorik
-    * Werbung mit Selbstverständlichkeiten
+* Tatsächliche Werte sind schwer überprüfbar
 * CO<sub>2</sub>-Kompensation
 
 .footnote[[Annika Witzel. 2019. [*Darum ist Greenwashing ein Problem*](https://www.quarks.de/umwelt/klimawandel/darum-ist-greenwashing-ein-problem/). Quarks., Jan Tolzmann. 2021. [*Wie sinnvoll ist die freiwillige CO2-Kompensation?*](https://www.quarks.de/umwelt/klimawandel/das-bringt-es-co2-emissionen-zu-kompensieren/). Quarks.]]
