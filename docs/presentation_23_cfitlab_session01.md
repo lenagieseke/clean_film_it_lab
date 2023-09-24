@@ -937,8 +937,59 @@ template:inverse
 * Speicher, Cloud Storage
 * Cloud Computing
 
+
+
+
 ---
 ## IT & Cloud Komponenten
+
+--
+* Hardware-Spezifikation (z.B. kWh?)
+
+--
+* Anzahl der Betriebsstunden  
+
+--
+* Ökostrom
+
+--
+* Maßnahmen zu Nachhaltigkeit (z.B bei Anbietern Abwärmenutzung)
+
+
+???
+.task[COMMENT:]  
+
+https://www.energieatlas.bayern.de/thema_abwaerme/rechner  
+  
+Um Wärme aus der Luft, aus Flüssigkeiten oder aus Maschinen und Geräten nutzbar zu machen, gibt es viele Möglichkeiten:
+
+* Wärmetauscher in Lüftungsanlagen einbauen
+* Kühlkreisläufe von Maschinen „anzapfen“
+* Von Luft- auf Wasserkühlung umbauen (z. B. Kompressoren)
+* Stark aufgeheizte Räume: Luft absaugen (z. B. Serverräume)
+
+Auch die Wärmerückgewinnung ist eine gängige Methode, um die in der Abwärme enthaltene Energie sinnvoll zu nutzen. Es gibt unterschiedliche Arten der Wärmerückgewinnung, so zum Beispiel für Lüftungs- und Klimaanlagen sowie für Heizungsanlagen. Bei Lüftungen etwa erfolgt die Abwärmenutzung durch den Einsatz eines Wärmeübertragers. Dieser entzieht der Abluft die Wärme und überträgt sie auf die frische Zuluft. Hierbei können 80 bis 90 Prozent der sonst auftretenden Wärmeverluste vermieden werden.
+
+Eine Abluftwärmepumpe entzieht hierbei der aufgeheizten Raumluft Wärme und nutzt diese zum Heizen oder für die Warmwasserbereitung.
+
+
+---
+.header[IT & Cloud Komponenten]
+
+## Beispielschätzung Betrieb: CO<sub>2</sub>-Rechner
+
+Computerarbeitsplätze (8 h/Tag) und Server (20h/Tag) pro Tag
+
+* 5 Budget-Computer für allgemeine Aufgaben + 1 Monitor 
+* 10 Mittelklasse-Computer für leichte VFX-Aufgaben + 2 Monitore 
+* 10 High-End-Computer für intensive VFX-Aufgaben 
+* Ein Serversystem für rechenintensive Aufgaben wie z.B. Rendering
+
+
+
+???
+.task[COMMENT:]  
+
 
 * Computerarbeitsplätze
     * Anzahl Budget-Computer (200 W)  
@@ -948,117 +999,150 @@ template:inverse
     * Anzahl Gaming / Grafik-Computer (> 500 W)  
         ⇾ anspruchsvolle Grafik, Grafikbearbeitung, anspruchsvolle Spiele
 * Server (z.B. Renderfarm)
-* Bildschirme and Displays
-* Speicher, Cloud Storage
-* Cloud Computing
-
-
----
-## IT & Cloud Komponenten
-
-* Computerarbeitsplätze
-* Server (z.B. Renderfarm)
     * Hardware / Anzahl der nodes
     * CPU, GPU
-* Bildschirme and Displays
-* Speicher, Cloud Storage
-* Cloud Computing
-  
-
----
-## IT & Cloud Komponenten
-
-* Computerarbeitsplätze
-* Server (z.B. Renderfarm)
-    * Hardware / Anzahl der nodes
-    * CPU, GPU
-* Bildschirme and Displays
-* Speicher, Cloud Storage
-* Cloud Computing
-  
----
-## IT & Cloud Komponenten
-
-* Computerarbeitsplätze
-* Server (z.B. Renderfarm)
 * Bildschirme and Displays
     * CRT, LED, LCD, Plasma
     * Bildschirmgröße
     * LED-Wände
 * Speicher, Cloud Storage
-* Cloud Computing
-  
----
-## IT & Cloud Komponenten
-
-* Computerarbeitsplätze
-* Server (z.B. Renderfarm)
-* Bildschirme and Displays
-* Speicher, Cloud Storage
     * Datenmenge
     * Schreibe-/Leseaktivität
 * Cloud Computing
-
----
-## IT & Cloud Komponenten
-
-* Computerarbeitsplätze
-* Server (z.B. Renderfarm)
-* Bildschirme and Displays
-* Speicher, Cloud Storage
-* Cloud Computing
     * CPU, GPU
 
----
-## IT & Cloud Komponenten
-
-* Computerarbeitsplätze
-* Server (z.B. Renderfarm)
-* Bildschirme and Displays
-* Speicher, Cloud Storage
-* Cloud Computing
-  
 --
-  
-  
-* Anzahl der Betriebsstunden  
 
---
-* Ökostrom
-
---
-* Abwärmenutzung
-
---
-* Maßnahmen zu Nachhaltigkeit (z.B bei Anbietern)
+.center[<img src="./img/rechner_details_01.png" alt="rechner_details_01" style="width:100%;">[[ref]]()]
 
 ---
 .header[IT & Cloud Komponenten]
 
-## Schätzung Studio Setup 1
+## Beispielschätzung Betrieb: CO<sub>2</sub>-Rechner
 
-.todo[TODO:]
+Computerarbeitsplätze (8 h/Tag) und Server (20h/Tag) pro Tag
 
-Hier auch zeigen, dass grobe Schätzungen sehr schwanken und damit zu Jens Teil überleiten.
+* Budget-Computer für allgemeine Aufgaben + 1 Monitor: 
+    * 0,58 kg / Ökostrom 0,05 kg
+* Mittelklasse-Computer für leichte VFX-Aufgaben + 2 Monitore: 
+    * 0,77 kg / Ökostrom 0,05 kg
+* High-End-Computer für intensive VFX-Aufgaben: 
+    * 0,82 kg / Ökostrom 0,10 kg
+* Ein Serversystem für rechenintensive Aufgaben wie Rendering:
+    * CPU Render Farm, 100 nodes, Klimaanlage 297,35 kg / 21,22 kg
+    * CPU Render Farm, 100 nodes, Abwärme 234,16 kg / 16,73 kg
+    * GPU Render Farm, 100 nodes, Klimaanlage 891,85 kg / 63,44 kg
+    * GPU Render Farm, 100 nodes, Abwärme 702,27 kg / 49,98 kg
+
+
+???
+.task[COMMENT:]  
+
+* https://go.greenshooting.de/de_DE/production/planning/?production_id=2019&dataset_id=2688
+
+---
+.header[IT & Cloud Komponenten]
+
+## Beispielschätzung Betrieb: CO<sub>2</sub>-Rechner
+
+Computerarbeitsplätze (8 h/Tag) und Server (20h/Tag) pro Tag
+
+* 5 Budget-Computer für allgemeine Aufgaben + 1 Monitor 
+* 10 Mittelklasse-Computer für leichte VFX-Aufgaben + 2 Monitore 
+* 10 High-End-Computer für intensive VFX-Aufgaben 
+* Ein Serversystem für rechenintensive Aufgaben wie Rendering
+  
+Best Case (Ökostrom, Abwärme, CPU Render Farm): **20,67 kg** ⇾ 1 Tonne in ca. 50 Arbeitstagen
+Best Case (Ökostrom, Abwärme, GPU Render Farm): **53,91 kg** ⇾ 1 Tonne in ca. 18 Arbeitstagen
+  
+Worst Case (Klimaanlage, CPU Render Farm): **315,65 kg** ⇾ 1 Tonne in ca. 3 Arbeitstagen
+Worst Case (Klimaanlage, GPU Render Farm): **910,15 kg** ⇾ 1 Tonne in ca. 1 Arbeitstag
+
+---
+.header[IT & Cloud Komponenten]
+
+## Berechnungsweg CO<sub>2</sub> und weitere Geräte
+
+### -> Teil 2
 
 
 ---
 .header[IT & Cloud Komponenten]
 
-## Schätzung Studio Setup 2
+## Beispielschätzung Lebenszyklus: Herstellerangaben
+
+* Im CO<sub>2</sub>-Rechner kann man z.B. keine Displays separat berechnen
+  
+--
+  
+> Manche Hersteller geben Auskunft, z.B. Dell gibt [lifecycle-Werte für Produkte](https://www.dell.com/de-de/dt/corporate/social-impact/advancing-sustainability/climate-action/product-carbon-footprints.htm#scroll=off&tab0=4) an
 
 
-.todo[TODO:]
 
-Survey
-* Router, LED-Leuchte, Handys, DSLR Kamera, 4K DCI Projektor, Mischpulte
-* Einblicke, welche Techniken schon erprobt sind und sich gut umsetzen ließen, z. B. Nutzung von Abwärme.
+???
+.task[COMMENT:]  
+
+* Dell UltraSharp UP3218K: 1012 kgCO2e +/- 138 kgCO2e From design to end-of-life and everything in between, we work to improve the environmental impact of the products you purchase. As part of that process, we estimate the specific impacts throughout the lifecycle. This includes the contributions from materials, manufacturing, distribution, use and end-of-life managemet
+
+--
+
+.center[<img src="./img/dell_01.png" alt="dell_01" style="width:44%;">]
+
+---
+.header[IT & Cloud Komponenten]
+
+## Beispielschätzung Lebenszyklus: Dell
+
+
+* [27-Monitor – S2721DS](https://www.delltechnologies.com/asset/de-de/products/electronics-and-accessories/technical-support/dell-s2721ds-monitor-pcf-datasheet.pdf)  
+    * LED QHD 2560 x 1440 bei 75 Hz  
+    ⇾ Lifecycle: 565 kgCO2e +/- 111 kgCO2e  
+
+--
+
+.center[<img src="./img/dell_02.png" alt="dell_02" style="width:70%;">]
+
+
+
+???
+.task[COMMENT:]  
+
+* LED QHD 2560 x 1440 bei 75 Hz 
+* https://www.dell.com/de-de/shop/dell-27-monitor-s2721ds/apd/210-axkw/monitore-und-monitorzubeh%C3%B6r#support_section
+
+
+---
+.header[IT & Cloud Komponenten]
+
+## Beispielschätzung Lebenszyklus: Dell
+
+
+* [27-Monitor – S2721DS](https://www.delltechnologies.com/asset/de-de/products/electronics-and-accessories/technical-support/dell-s2721ds-monitor-pcf-datasheet.pdf)  
+    * LED QHD 2560 x 1440 bei 75 Hz  
+    ⇾ Lifecycle: 565 kgCO2e +/- 111 kgCO2e  
+  
+
+* [32-Monitor - UP3218K](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-UP3218K-monitor.pdf)
+    * LED 8K 7680 x 4320 at 60 Hz  
+    ⇾ Lifecycle: 1012 kgCO2e +/- 138 kgCO2e  
 
 
 
 
 ???
 .task[COMMENT:]  
+
+* Für den Dell UltraSharp UP3218K, einen 8K-Monitor mit 32 Zoll Bildschirmdiagonale werden laut Spezifikation z.B. 125W (maximal) und 87W (typisch) angegeben.
+
+1 Gigabyte Backup pro Tag: 11 kg CO2e pro Jahr
+
+Survey
+* Router, LED-Leuchte, Handys, DSLR Kamera, 4K DCI Projektor, Mischpulte
+* Einblicke, welche Techniken schon erprobt sind und sich gut umsetzen ließen, z. B. Nutzung von Abwärme.
+
+
+Hier auch zeigen, dass grobe Schätzungen sehr schwanken und damit zu Jens Teil überleiten.
+
 
 Welche Elemente haben welche Auswirkungen?
 
@@ -1067,16 +1151,49 @@ https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/elektrogeraete/comput
 https://www.blauer-engel.de/de
 
 
+---
 .header[IT & Cloud Komponenten]
 
-## Schätzung LED Wall
+## Beispielschätzung Lebenszyklus: Dell
 
-.todo[TODO:]
+* [Speicher PowerStore 500T](https://www.dell.com/de-de/dt/corporate/social-impact/advancing-sustainability/climate-action/product-carbon-footprints.htm#scroll=off&tab0=4&pdf-overlay=//www.delltechnologies.com/asset/de-de/products/storage/technical-support/powerstore500t-typical-pcf-datasheet.pdf)
+    * 4 Intel CPUs, 40 Cores, 2,4 GHz
+    * Arbeitsspeicher 192 GB 
 
+--
+
+.center[<img src="./img/dell_storage_01.png" alt="dell_storage_01" style="width:100%;">[[Dell Product Carbon Footprint]](https://www.dell.com/de-de/dt/corporate/social-impact/advancing-sustainability/climate-action/product-carbon-footprints.htm#scroll=off&tab0=4&pdf-overlay=//www.delltechnologies.com/asset/de-de/products/storage/technical-support/powerstore500t-typical-pcf-datasheet.pdf)]
+
+
+???
+.task[COMMENT:]  
+
+Fußabdruck-Berechnungen weisen eine große Bandbreite auf, die von verschiedenen Faktoren abhängt, z. B. davon, wie das Gerät konfiguriert ist, wo es hergestellt wurde und mehr. Dell Technologies gibt das 5. und 95. Perzentil des geschätzten CO2-Fußabdrucks an, um diese Unsicherheit zu berücksichtigen. Für dieses Produkt hat diese Schätzung einen Mittelwert von 10824 kg CO2e und eine Standardabweichung von 5511 kg CO2e.   
+
+* https://www.dell.com/de-de/dt/storage/powerstore-storage-appliance/powerstore-t-series.htm?hve=modellvergleich&hve=modellvergleich#scroll=off&pdf-overlay=//www.delltechnologies.com/asset/de-de/products/storage/technical-support/dell-powerstore-3-0-spec-sheet.pdf
 
 
 ---
-.header[IT & Cloud Komponenten]
+## IT & Cloud Komponenten
+
+--
+
+*  CO<sub>2</sub>-Rechner verwenden (Betrieb vs. Lebenszyklus)
+
+--
+* Selbst ausrechnen
+
+--
+* Herstellerangaben
+
+--
+
+> Es bleibt aufwendig und schwierig!
+
+
+
+???
+.task[COMMENT:]  
 
 ## Ausblick
 
