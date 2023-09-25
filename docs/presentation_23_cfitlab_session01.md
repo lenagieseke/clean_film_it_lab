@@ -1305,3 +1305,12 @@ template:inverse
 
 ## mit Jens Gröger
 
+
+---
+template:inverse
+
+### Einleitung & Überblick
+
+.center[<img src="./img/qr-code.png" alt="qr-code" style="width:50%;">]
+
+
