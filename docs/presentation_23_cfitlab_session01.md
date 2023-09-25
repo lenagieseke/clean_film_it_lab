@@ -4,8 +4,6 @@ class: center, middle, inverse
 ---
 
 
-
-
 .center[<img src="./img/cf_logo3.png" alt="logos" style="width:80%;">]
 
 .center[<img src="./img/logos.png" alt="logos" style="width:100%;">]
@@ -30,7 +28,7 @@ layout: false
 
 .header[Das Clean Film IT Lab]
 
-## Die Ergebnisse des Labs
+## Ziele des Labs
 
 --
 
@@ -51,17 +49,21 @@ layout: false
 4. HPI Startup Bootcamp 
     * *Sustainable solutions in movie production*
     * Welches konkrete Problem soll gelöst werden?
-  
+
+
 ---
 .header[Das Clean Film IT Lab]
 
 ## Agenda
 
-* Vorstellungen & Intro    
+* Intro & Vorstellungen    
 * Teil 1 – Einleitung & Überblick  
 * Teil 2 – Reality-Check  
 * Teil 3 – Kontext & Ausblick  
 * Teil 4 – Diskussion *Probleme in der Praxis*  
+
+*Mittagspause*
+
 * Teil 5 – Die Nächsten Schritte  
 * Diskussionsrunde  
 * Get-Together  
@@ -70,25 +72,25 @@ layout: false
 ???
 .task[COMMENT:]  
 
-09:00-09:30   Kaffee
-09:30 - 10:00   Vorstellungen & Intro (Lena)
-10:00-10:45   Teil 1 – Einleitung & Überblick (Lena, Präsentation)
-·	Ziel: Motivation und Grundverständnis für das Thema, Kontext Film
-·	„Wo stehen wir?“
-·	https://lenagieseke.github.io/clean_film_it_lab
-10:45-11:15   Teil 2 – Reality-Check (Jens, Präsentation)
-·	Ziel: Detailliertes Wissen darüber,  wie man den eigenen C02-Fußabdruck hinsichtlich genutzter IT & Cloud Komponenten belastbar bestimmen kann.
-·	„Wo stehen wir wirklich?“
-11:30-12:00   Teil 3 – Kontexte & Ausblick (Jens, Präsentation, Diskussion)
-·	Ziel: Verständnis darüber, was jenseits des C02-Fußabdruck relevant ist und weitere Entwicklungsrichtungen
-·	„Was gibt es noch zu bedenken?“
-12:00-12:45  Teil 4 – Praxisprobleme (Lena, Jens, Hendrik, Tim, Diskussion)
-·	Ziel: Eine möglichst umfassende Sammlung an Problemen, die Unternehmen daran hindern ökologische Nachhaltigkeit zu bestimmen und umzusetzen, erste Ideen dazu, was sich ändern ließe
-14:00-16:00   Teil 5 – Die Nächsten Schritte (Lena, Hendrik, Gruppenarbeit)
-Ziel: Bestimmung von konkreten Fragen für Forschung & Transfer
-Format: Gruppenarbeit
-16:30-17:30    Diskussionsrunde
-ab 17:45  Get-Together
+09:00-09:30   Kaffee  
+09:30 - 10:00   Vorstellungen & Intro (Lena)  
+10:00-10:45   Teil 1 – Einleitung & Überblick (Lena, Präsentation)  
+·	Ziel: Motivation und Grundverständnis für das Thema, Kontext Film  
+·	„Wo stehen wir?“  
+·	https://lenagieseke.github.io/clean_film_it_lab  
+10:45-11:15   Teil 2 – Reality-Check (Jens, Präsentation)  
+·	Ziel: Detailliertes Wissen darüber,  wie man den eigenen C02-Fußabdruck hinsichtlich genutzter IT & Cloud Komponenten belastbar bestimmen kann.  
+·	„Wo stehen wir wirklich?“  
+11:30-12:00   Teil 3 – Kontexte & Ausblick (Jens, Präsentation, Diskussion)  
+·	Ziel: Verständnis darüber, was jenseits des C02-Fußabdruck relevant ist und weitere Entwicklungsrichtungen  
+·	„Was gibt es noch zu bedenken?“  
+12:00-12:45  Teil 4 – Praxisprobleme (Lena, Jens, Hendrik, Tim, Diskussion)  
+·	Ziel: Eine möglichst umfassende Sammlung an Problemen, die Unternehmen daran hindern ökologische Nachhaltigkeit zu bestimmen und umzusetzen, erste Ideen dazu, was sich ändern ließe  
+14:00-16:00   Teil 5 – Die Nächsten Schritte (Lena, Hendrik, Gruppenarbeit)  
+Ziel: Bestimmung von konkreten Fragen für Forschung & Transfer  
+Format: Gruppenarbeit  
+16:30-17:30    Diskussionsrunde  
+ab 17:45  Get-Together  
 
 
 
@@ -148,16 +150,12 @@ Mit grün sind zusammenfassend..
 
 Heute soll es um grüne Zukunft gehen, Stichworte die eine KI beispielsweise wie hier...
 
----
-layout: false
 
 .center[<img src="./img/teaser_01a.png" alt="teaser_01a" style="width:90%;">]
 
 <!-- .footnote[[Lena Gieseke. 2023. Dall-E 2]] -->
 
 
-???
-.task[COMMENT:]  
 
 ...zu sehen visualisiert.
 
@@ -165,6 +163,8 @@ layout: false
 .header[Begriffsklärung]
 
 ## Green 
+
+--
 
 * Verfahren oder Produkte mit geringer Umweltbelastung 
 
@@ -236,6 +236,8 @@ Der Begriff clean kommt unter anderem von...
 .header[Begriffsklärung]
 
 ## Clean
+
+--
 
 * Saubere Energie, insbesondere aus erneuerbaren, nicht-fossilen Energiequellen
 
@@ -361,7 +363,7 @@ Wo stehen wir in diesem Kontext...
 
 Eine Tonne CO₂ entspricht
 
-.footnote[[Climate Neutral Group. 2023. [*What Exactly Is 1 Tonne of CO₂?*](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2-v2/)], Tapio. [*What is a ton of CO₂, and how much CO2 do we emit?*](https://www.tapio.eco/blog/what-represents-one-ton-co2-emissions/), Umweltbundesamt. 2018. [*High costs when environmental protection is neglected*](https://www.umweltbundesamt.de/en/press/pressinformation/high-costs-when-environmental-protection-is)]
+.footnote[[Climate Neutral Group. 2023. [*What Exactly Is 1 Tonne of CO₂?*](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2-v2/), Tapio. [*What is a ton of CO₂, and how much CO2 do we emit?*](https://www.tapio.eco/blog/what-represents-one-ton-co2-emissions/), Umweltbundesamt. 2018. [*High costs when environmental protection is neglected*](https://www.umweltbundesamt.de/en/press/pressinformation/high-costs-when-environmental-protection-is)]]
 
 --
 * 1 Flug Paris - New York
@@ -429,7 +431,7 @@ Ziel: eine Tonne CO2 pro Mensch
 “Um ein 95-Prozent-Ziel zu realisieren und damit Treibhausgasneutralität herzustellen, wäre für Deutschland eine Pro-Kopf-Emission von einer Tonne pro Jahr in 2050 zu realisieren.” Diese Zahl bezieht sich auf den gesamten Lebensbereich, neben Verkehr auch auf Energie, Konsum und Ernährung.
 
 ---
-.header[Begriffsklärung | Treibhausgasemission]
+.header[Begriffsklärung | Treibhausgasemissionen]
 
 ## CO<sub>2</sub>-Fußabdruck
 
@@ -450,7 +452,7 @@ Ziel: eine Tonne CO2 pro Mensch
 .center[<img src="./img/c02_footprint_01.png" alt="c02_footprint_01" style="width:80%;">]  
 
 ---
-.header[Begriffsklärung | Treibhausgasemission]
+.header[Begriffsklärung | Treibhausgasemissionen]
 
 ## CO<sub>2</sub>-Fußabdruck in Deutschland
 
@@ -608,8 +610,13 @@ Von der Gesamtemmission produzieren
 --
 * 1/5 aller Emissionen durch Autos (US)
 
+.footnote[[David Keith und Aaron Krol. 2023. [*Electric Vehicles*](https://climate.mit.edu/explainers/electric-vehicles). MIT Climate Portal.]]
+
 --
-* Lebensdauer eines Autos ca. 15 - 20 Jahre -> der Zustand bis 2040 wird jetzt festgelegt
+* Lebensdauer eines Autos ca. 15 - 20 Jahre 
+
+--
+### -> Wir legen jetzt den Zustand bis 2040 fest
   
 
 --
@@ -621,7 +628,6 @@ Von der Gesamtemmission produzieren
     * Rohstoffe
     * Ca. 3/4 mehr Emissionen in der Herstellung als Benziner
 
-.footnote[[David Keith und Aaron Krol. 2023. [*Electric Vehicles*](https://climate.mit.edu/explainers/electric-vehicles). MIT Climate Portal.]]
 
 
 ???
@@ -864,6 +870,8 @@ Mittelwert beträgt rund 64 Tonnen CO2e. I
 * Bis zu 100 Produktionen im Jahr
 * *Mini*-Produktionen → ca. 5-10 Tonnen CO<sub>2</sub>e
 
+--
+
 ### -> 500 - 1.000 Tonnen im Jahr
 
 --
@@ -974,18 +982,26 @@ template:inverse
 
 
 ---
-## IT & Cloud Komponenten
+.header[IT & Cloud Komponenten]
+
+## Relevante Eigenschaften
 
 * Hardware-Spezifikation (z.B. kWh?)
 
 --
-* Anzahl der Betriebsstunden  
+* Anzahl der Betriebsstunden 
 
 --
 * Ökostrom
 
 --
-* Maßnahmen zu Nachhaltigkeit (z.B bei Rechenzentren Abwärmenutzung)
+* Regeln zur Anschaffung, Aktualisierung und Entsorgung
+
+--
+* Maßnahmen zu Nachhaltigkeit
+    * Ressourcen Sharing
+    * Vermeidung von Leerlauf ("Stand by")
+    * bei Rechenzentren z.B. Abwärmenutzung
 
 
 ???
@@ -1009,6 +1025,8 @@ Eine Abluftwärmepumpe entzieht hierbei der aufgeheizten Raumluft Wärme und nut
 .header[IT & Cloud Komponenten]
 
 ## Beispielschätzung Betrieb: CO<sub>2</sub>-Rechner
+
+--
 
 Computerarbeitsplätze (8 h/Tag) und Server (20h/Tag) pro Tag
 
