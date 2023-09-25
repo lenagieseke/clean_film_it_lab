@@ -67,10 +67,43 @@ layout: false
 * Get-Together  
 
 
+???
+.task[COMMENT:]  
+
+09:00-09:30   Kaffee
+09:30 - 10:00   Vorstellungen & Intro (Lena)
+10:00-10:45   Teil 1 – Einleitung & Überblick (Lena, Präsentation)
+·	Ziel: Motivation und Grundverständnis für das Thema, Kontext Film
+·	„Wo stehen wir?“
+·	https://lenagieseke.github.io/clean_film_it_lab
+10:45-11:15   Teil 2 – Reality-Check (Jens, Präsentation)
+·	Ziel: Detailliertes Wissen darüber,  wie man den eigenen C02-Fußabdruck hinsichtlich genutzter IT & Cloud Komponenten belastbar bestimmen kann.
+·	„Wo stehen wir wirklich?“
+11:30-12:00   Teil 3 – Kontexte & Ausblick (Jens, Präsentation, Diskussion)
+·	Ziel: Verständnis darüber, was jenseits des C02-Fußabdruck relevant ist und weitere Entwicklungsrichtungen
+·	„Was gibt es noch zu bedenken?“
+12:00-12:45  Teil 4 – Praxisprobleme (Lena, Jens, Hendrik, Tim, Diskussion)
+·	Ziel: Eine möglichst umfassende Sammlung an Problemen, die Unternehmen daran hindern ökologische Nachhaltigkeit zu bestimmen und umzusetzen, erste Ideen dazu, was sich ändern ließe
+14:00-16:00   Teil 5 – Die Nächsten Schritte (Lena, Hendrik, Gruppenarbeit)
+Ziel: Bestimmung von konkreten Fragen für Forschung & Transfer
+Format: Gruppenarbeit
+16:30-17:30    Diskussionsrunde
+ab 17:45  Get-Together
+
+
+
 ---
 template:inverse
 
 # Vorstellungsrunde
+
+
+???
+.task[COMMENT:]  
+
+* Name, Unternehmen, Position
+* Motivation für das Thema, Stand der Dinge im Unternehmen
+* Bis wann können Sie bleiben
 
 ---
 template:inverse
@@ -943,7 +976,6 @@ template:inverse
 ---
 ## IT & Cloud Komponenten
 
---
 * Hardware-Spezifikation (z.B. kWh?)
 
 --
@@ -953,7 +985,7 @@ template:inverse
 * Ökostrom
 
 --
-* Maßnahmen zu Nachhaltigkeit (z.B bei Anbietern Abwärmenutzung)
+* Maßnahmen zu Nachhaltigkeit (z.B bei Rechenzentren Abwärmenutzung)
 
 
 ???
@@ -982,7 +1014,7 @@ Computerarbeitsplätze (8 h/Tag) und Server (20h/Tag) pro Tag
 
 * 5 Budget-Computer für allgemeine Aufgaben + 1 Monitor 
 * 10 Mittelklasse-Computer für leichte VFX-Aufgaben + 2 Monitore 
-* 10 High-End-Computer für intensive VFX-Aufgaben 
+* 10 High-End-Computer für intensive VFX-Aufgaben + 2 Monitore 
 * Ein Serversystem für rechenintensive Aufgaben wie z.B. Rendering
 
 
