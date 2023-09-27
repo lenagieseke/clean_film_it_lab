@@ -843,23 +843,6 @@ Film and Television Production]](https://greenproductionguide.com/wp-content/upl
 Bei allen Spielfilmproduktionen trugen Flugreisen und Versorgungsunternehmen in etwa gleichem Maße zum Gesamt-CO2-Fußabdruck bei. Bei großen Filmen trugen Flugreisen und Versorgungsunternehmen etwa 24 % bzw. 22 % des CO₂-Fußabdrucks bei. Unterbringungen wie Hotels und Wohnungen machten den geringsten Teil der Kohlenstoffemissionen aus und trugen nur 6 % zu großen Filmen bei.
 
 
----
-.header[Aktuelle Zahlen und Aktivitäten | Durchschnittliche CO<sub>2</sub>-Emission Pro Film]
-
-## Deutschland
-
-.center[<img src="./img/bilanz_dt_01.png" alt="bilanz_dt_01" style="width: 90%;">]
-
-.footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
-
-
-???
-.task[COMMENT:]  
-
-* Die Gesamtemissionen der einzelnen Produktionen unterscheiden sich deutlich voneinander. Der
-geringste Gesamtausstoß liegt bei etwa 12 Tonnen CO2e (1-14), der höchste bei 148 Tonnen CO2e
-(1-27) und damit um mehr als das Zwölffache über dem niedrigsten Wert. Der arithmetische
-Mittelwert beträgt rund 64 Tonnen CO2e. I
 
 
 ---
@@ -914,6 +897,25 @@ Nichtsdestotrotz gibt es positive Beispiele, wie z.B. die Tatort Produktion aus 
 ...entsprechende Maßnahmen des Green-Producing 42% weniger Emissionen produziert hat. Man könnte also sagen, es geht doch und das schon seit einer ganzen Weile.
 
 Abschließend kommen wir zu einem...
+
+
+---
+.header[Aktuelle Zahlen und Aktivitäten | Umsetzung von Nachhaltigen Aktivitäten]
+
+## Projektergebnisse *100 Grüne Produktionen*
+
+.center[<img src="./img/bilanz_dt_01.png" alt="bilanz_dt_01" style="width: 90%;">]
+
+.footnote[[I. Rüdenauer, V. López Hernández und C.  Gensch, C. . 2022. [*100 Grüne Produktionen – Evaluation der Nachhaltigkeitsinitiative des Arbeitskreises „Green Shooting“*](https://www.oeko.de/publikationen/p-details/100-gruene-produktionen-evaluation-der-nachhaltigkeitsinitiative-des-arbeitskreises-green-shooting). Öko-Institut e.V.]]
+
+
+???
+.task[COMMENT:]  
+
+* Die Gesamtemissionen der einzelnen Produktionen unterscheiden sich deutlich voneinander. Der
+geringste Gesamtausstoß liegt bei etwa 12 Tonnen CO2e (1-14), der höchste bei 148 Tonnen CO2e
+(1-27) und damit um mehr als das Zwölffache über dem niedrigsten Wert. Der arithmetische
+Mittelwert beträgt rund 64 Tonnen CO2e. I
 
 
 
